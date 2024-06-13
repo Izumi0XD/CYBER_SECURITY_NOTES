@@ -1,4 +1,4 @@
-# Day 03
+# ♦Day 03
 
 ## 1st Topic tht we learned about 
 basically, we learned how to download vs code in kali.
