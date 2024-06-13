@@ -1,6 +1,6 @@
 # ♦Day 03
 
-## 1st Topic tht we learned about 
+## *1st Topic tht we learned about 
 basically, we learned how to download vs code in kali.
 
 ### To Download and Install VS CODE (OR ANY OTHER APP) using browser :
