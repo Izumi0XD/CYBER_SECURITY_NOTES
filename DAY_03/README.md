@@ -22,6 +22,6 @@ ________________________________________________________________________________
 ◙ Ill be attaching all the cheat sheet code for making GITHUB README file ( used to making a readme file more readable or good presentable file
 
 ♦ LINK
- [GITHUB CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).{:target="_blank"}
- [link](https://google.com){target="_blank"}
+ [GITHUB CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+ <a href="http://google.com" target="_blank">external link</a>
 
