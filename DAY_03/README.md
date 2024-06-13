@@ -19,3 +19,7 @@ ________________________________________________________________________________
 
 • while makeing a repo we have to make a ***README.md*** file for each and every folder and file *that helps to understand the role of the file or folder that is given* whrer **md** is ***Markdown*** file 
   we can make subfolders by giving **/** in the PATH.
+◙ Ill be attaching all the cheat sheet code for making GITHUB README file ( used to making a readme file more readable or good presentable file
+
+♦ LINK
+ [GITHUB CHEATSHEET](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
