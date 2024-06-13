@@ -22,4 +22,4 @@ ________________________________________________________________________________
 ◙ Ill be attaching all the cheat sheet code for making GITHUB README file ( used to making a readme file more readable or good presentable file
 
 ♦ LINK
- [GITHUB CHEATSHEET]([https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet))
+ [GITHUB CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
