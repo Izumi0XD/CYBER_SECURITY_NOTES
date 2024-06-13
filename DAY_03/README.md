@@ -23,3 +23,4 @@ ________________________________________________________________________________
 
 ♦ LINK
  [GITHUB CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+<a href="https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet" target="_blank">GITHUB CHEATSHEEt</a>
