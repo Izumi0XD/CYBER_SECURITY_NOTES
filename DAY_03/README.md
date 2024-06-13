@@ -23,5 +23,4 @@ ________________________________________________________________________________
 
 ♦ LINK
  [GITHUB CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
- <a href="http://google.com" target="_blank">external link</a>
 
