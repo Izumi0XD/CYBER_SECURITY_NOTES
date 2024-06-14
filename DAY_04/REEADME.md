@@ -36,3 +36,4 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 
 
 # ♦ There are a Total of 64738 ports are available 
+  #### • ABOUT ALL THE PORTS [HERE](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
