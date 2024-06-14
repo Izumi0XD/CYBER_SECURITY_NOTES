@@ -48,6 +48,9 @@ ________________________________________________________________________________
 
 # ♦ SPIDERFOOT 
    : {Information Gathering} SpiderFoot can be used offensively (e.g. in a red team exercise or penetration test) for reconnaissance of your target or defensively to ***gather information*** about what you or your organisation might have exposed over the Internet. You can target the following entities in a SpiderFoot scan: IP address.
+   ### TYPES 
+   **1. ACTIVE** - Attacking in targets device and doing whatever u want to collect ar change DATA
+   **2. PASSIVE** - Just simple information gathering
 
   ## • SPIDERFOOT HELP MENU
   ![Screenshot 2024-06-14 102016](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/b8e96590-b454-430a-a8c5-5d9afbd4e46f)
