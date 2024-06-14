@@ -54,5 +54,5 @@ ________________________________________________________________________________
 
   ## • SPIDERFOOT STARTING 
   ![Screenshot 2024-06-14 102116](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/afe47d7c-f5ff-421c-ab8b-f52d19654bed)
-  ## • SPIDERFOOT REPORT
+  ## • SPIDERFOOT REPORT GENERATING
   ![Screenshot 2024-06-14 101207](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/81740504-f567-4c78-9eb6-bd7501600054)
