@@ -45,3 +45,6 @@ ________________________________________________________________________________
 
  ## ◙ Bitdefender 
    : Bitdefender is a cybersecurity leader delivering best-in-class threat prevention, detection, and response solutions worldwide. Bitdefender provides cybersecurity solutions with leading security efficacy, performance and ease of use to small and medium businesses, mid-market enterprises and consumers.
+
+# ♦ SPIDERFOOT 
+   : SpiderFoot can be used offensively (e.g. in a red team exercise or penetration test) for reconnaissance of your target or defensively to ***gather information*** about what you or your organisation might have exposed over the Internet. You can target the following entities in a SpiderFoot scan: IP address.
