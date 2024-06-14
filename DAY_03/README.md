@@ -26,3 +26,5 @@ ________________________________________________________________________________
  
  KERALA HACKER (sirs profile and to get useful info on cybersecurity) [HERE](https://github.com/keralahacker?tab=repositories)
 
+## ◙ what is Backdoor
+ : In cybersecurity, a backdoor is a means of bypassing an organization's existing security systems. While a company may have various security solutions in place, there may be mechanisms in place that allow a legitimate user or attacker to evade them.
