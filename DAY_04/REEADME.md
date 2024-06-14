@@ -88,4 +88,10 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 
  #### ◙ [HTTP STATUS MESSAGE](https://www.w3schools.com/tags/ref_httpmessages.asp)
 
+
+### • NETWORKS (Checkin websites networking)
+#### 1.
+![Screenshot 2024-06-14 210723](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/977cd75a-aefd-4280-9d0d-fdf12a41d150)
+#### 2.
+![Screenshot 2024-06-14 210746](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/7e9103e9-a61f-4ff5-9c4b-cd2e982b7074)
  
