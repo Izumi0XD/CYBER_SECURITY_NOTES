@@ -58,6 +58,6 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/7913b4ac-84ab-43f6-90d1-4f0bf5975c36)
 
 ## PORT SPECIFICATION 
-  : one of the most impostant and useful feature in NMAP is that we can specify the port number and specifications we can also scan all ports using **-p-** but it takes a lot of time so we can reduceit using **-T4**
+  : one of the most impostant and useful feature in NMAP is that we can specify the port number and specifications we can also scan all ports using **-p-** but it takes a lot of time so we can reduceit using **-T4-Pn** it takes way less Time
 
   
