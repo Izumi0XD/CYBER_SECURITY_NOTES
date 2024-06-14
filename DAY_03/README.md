@@ -30,7 +30,7 @@ ________________________________________________________________________________
   5. Select Initialize this repository with a README.
   6. Click Create repository.
 
-   *** FOR MORE CLICK [HERE](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories).
+   *** FOR MORE CLICK [HERE](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories). ***
 
 ♦ LINK
  [GITHUB CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
