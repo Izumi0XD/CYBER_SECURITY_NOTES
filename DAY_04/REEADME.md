@@ -47,6 +47,8 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
   • Port 53 - Used for DNS (DOMAIN NAME SERVER)
 
   • Port 143 - Used for IMAP (INTERNET MESSAGE ACCESS PROTOCOL)
+
+  • Port 138 - Used for NetBIOS Datagram Service     ***ETC***
   
   #### • ABOUT ALL THE PORTS [HERE](https://en.wikipedia.org/w
   
