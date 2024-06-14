@@ -50,5 +50,5 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 
   • Port 138 - Used for NetBIOS Datagram Service     ***ETC***
   
-  #### • ABOUT ALL THE PORTS [HERE](https://en.wikipedia.org/w
+  #### • ABOUT ALL THE PORTS [HERE](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
   
