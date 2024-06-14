@@ -25,7 +25,7 @@
 
 • **UDP** - The User Datagram Protocol, or UDP, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups. It speeds up communications by not formally establishing a connection before data is transferred. This allows data to be transferred very quickly, but it can also cause packets to become lost in transit — and create opportunities for exploitation in the form of DDoS attacks.
 
-◙ TCP vs. UDP
+### ◙ TCP vs. UDP
 
 1. UDP is faster but less reliable than TCP, another common transport protocol. In a TCP communication, the two computers begin by establishing a connection via an automated process called a ‘handshake.’ Only once this handshake has been completed will one computer actually transfer data packets to the other.
 2. UDP communications do not go through this process. Instead, one computer can simply begin sending data to the other
