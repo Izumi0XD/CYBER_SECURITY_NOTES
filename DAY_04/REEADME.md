@@ -35,4 +35,4 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 (Technically, such packet loss is less a flaw in UDP than a consequence of how the Internet is built. Most network routers do not perform packet ordering and arrival confirmation by design, because doing so would require an unfeasible amount of additional memory. TCP is a way of filling this gap when an application requires it.)
 
 
-# ♦ There are a Total of 64738 ports available 
+# ♦ There are a Total of 64738 ports are available 
