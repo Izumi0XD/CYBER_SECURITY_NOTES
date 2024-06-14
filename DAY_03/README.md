@@ -21,10 +21,21 @@ ________________________________________________________________________________
   we can make subfolders by giving **/** in the PATH.
 ◙ Ill be attaching all the cheat sheet code for making GITHUB README file ( used to making a readme file more readable or good presentable file
 
+### • How to create GITHUB Repo :
+  
+  1. In the upper-right corner of any page, select +, then click New repository.
+  2. Type a short, memorable name for your repository. For example, "hello-world".
+  3. Optionally, add a description of your repository. For example, "My first repository on GitHub."
+  4. Choose a repository visibility.
+  5. Select Initialize this repository with a README.
+  6. Click Create repository.
+
+   *** FOR MORE CLICK [HERE](https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories).
+
 ♦ LINK
  [GITHUB CHEATSHEET](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
  
  KERALA HACKER (sirs profile and to get useful info on cybersecurity) [HERE](https://github.com/keralahacker?tab=repositories)
 
-## ◙ what is Backdoor
+## ◙ What is Backdoor
  : In cybersecurity, a backdoor is a means of bypassing an organization's existing security systems. While a company may have various security solutions in place, there may be mechanisms in place that allow a legitimate user or attacker to evade them.
