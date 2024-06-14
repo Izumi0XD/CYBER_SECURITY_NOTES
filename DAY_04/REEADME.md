@@ -99,4 +99,9 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 # ♦ USE ***man nmap***
  ### 1. press h after that (Read this CREFULLY THIS IS IMPORTANT)
 ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3b9f66d5-6566-469d-81ac-2a75c46e9588)
+
+## NMAP USE example
+
+### 1.![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3c5a5ff2-535f-4e6c-b5b0-a201199172f6) 
+
  
