@@ -10,7 +10,7 @@
 
 • [Github Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet): A markdown sheet that`s gonna help us to make or edit README.md file as per our needs.
 
-• [Kerala Haxker](https://github.com/keralahacker?tab=repositories): It is Sirs profile where we can learn some important things related to cybersecurity
+• [Kerala Hacker](https://github.com/keralahacker?tab=repositories): It is Sirs profile where we can learn some important things related to cybersecurity
 
 • [Vaishnavu C V](https://github.com/vaishnavucv) : Teash`s official profile in GITHUB
 
