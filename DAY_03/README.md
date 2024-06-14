@@ -56,11 +56,12 @@ ________________________________________________________________________________
   ![Screenshot 2024-06-14 102016](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/b8e96590-b454-430a-a8c5-5d9afbd4e46f)
 
   ## • DASHBOARD BASE INFORMATION GATHERING TOOL
-  ### 1.
+  ### 1. Go to NEW SCAN
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3a2cab71-31d1-45af-8217-c93afc50b95f)
-  ### 2.
+  ### 2. ENTER SCAN NAME AND SCAN TARGET
+   SCAN TARGET should be any website jst dont use any extras like https// stuff EX: email-fake.com
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/f94b1018-8911-4155-970c-0d9ea9cc87cb)
-  ### 3.
+  ### 3. SELECT TYPE OF INFO GATHERING (PASSIVE MOSTLY)
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/fa7960c3-c848-4f6c-aa72-d5b71f731b35)
  
   ## • SPIDERFOOT STARTING 
