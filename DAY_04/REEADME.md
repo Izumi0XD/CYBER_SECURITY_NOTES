@@ -52,7 +52,7 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
   
   #### • ABOUT ALL THE PORTS [HERE](https://en.wikipedia.org/wiki/List_of_TCP_and_UDP_port_numbers)
 
-  ### ABOUT SYN
+  ### • ABOUT SYN
    : A client sends a SYN (synchronize) message to a server, indicating a desire to establish a connection. The server acknowledges this request by sending a SYN-ACK message back to the client. The client responds with an ACK (acknowledgment), and the connection is officially established.
    ### 1.
 ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/7913b4ac-84ab-43f6-90d1-4f0bf5975c36)
