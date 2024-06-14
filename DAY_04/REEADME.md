@@ -82,7 +82,7 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 
 
   # ♦ HTTP STATUS MESSAGE
-   :HTTP status codes are three-digit responses from the server to the browser-side request. Everyone has probably gotten the classic 404 page-not-found error. That is an HTTP client error status code and there are a lot more of them. {Basicall a 3 didgit number which tells about the operation like satus}
+   : HTTP status codes are three-digit responses from the server to the browser-side request. Everyone has probably gotten the classic 404 page-not-found error. That is an HTTP client error status code and there are a lot more of them. {Basicall a 3 didgit number which tells about the operation like satus}
   
    Example : 404 - NOT FOUND (The requested page could not be found but may be available in the future)
 
