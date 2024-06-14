@@ -3,6 +3,6 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ## INDEX
 
-1. [Day_01](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_01)
-2. [Day_02](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_02)
-3. [Day_03](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_03)
+• [Day_01](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_01)
+• [Day_02](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_02)
+• [Day_03](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_03)
