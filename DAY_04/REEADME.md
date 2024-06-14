@@ -61,3 +61,10 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
   : one of the most impostant and useful feature in NMAP is that we can specify the port number and specifications we can also scan all ports using **-p-** but it takes a lot of time so we can reduceit using **-T4-Pn** it takes way less Time
 
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/39ff19f2-132d-441e-a519-ff2c5977d2e4)
+
+  ### NMAP DIRECTORY
+
+  #### NMAP PATH
+  ![Screenshot 2024-06-14 172932](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/d63fc260-222d-4844-a985-e7e455430fb1)
+
+
