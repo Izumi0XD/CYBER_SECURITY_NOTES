@@ -56,8 +56,12 @@ ________________________________________________________________________________
   ![Screenshot 2024-06-14 102016](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/b8e96590-b454-430a-a8c5-5d9afbd4e46f)
 
   ## • DASHBOARD BASE INFORMATION GATHERING TOOL
-  2. ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/f94b1018-8911-4155-970c-0d9ea9cc87cb)
-  3. ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/fa7960c3-c848-4f6c-aa72-d5b71f731b35)
+  ### 1.
+  ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3a2cab71-31d1-45af-8217-c93afc50b95f)
+  ### 2.
+  ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/f94b1018-8911-4155-970c-0d9ea9cc87cb)
+  ### 3.
+  ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/fa7960c3-c848-4f6c-aa72-d5b71f731b35)
  
   ## • SPIDERFOOT STARTING 
   ![Screenshot 2024-06-14 102116](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/afe47d7c-f5ff-421c-ab8b-f52d19654bed)
