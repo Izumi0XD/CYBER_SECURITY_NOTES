@@ -70,6 +70,6 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
   ## wafw00f TOOL
    : WAFW00F is a Python tool to help you fingerprint and identify Web Application Firewall (WAF) products. It is an active reconnaissance tool as it actually connects to the web server, but it starts out with a normal HTTP response and escalates as necessary.**{ it is a tol that heps us to identify which firewall is in use in tht paricular website}**
 
-### 1.
+### 1. wafw00f SS
 ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/09eb2527-1859-497e-98f1-3f2fe13e8076)
-
+### 2. wafw00f Example
