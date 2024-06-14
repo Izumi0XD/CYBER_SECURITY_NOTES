@@ -21,9 +21,9 @@
 
 ## TCP (Transmission Control Protocol) & UDP (User Datagram Protocol)
 
-• **TCP** - Transmission Control Protocol is a connection-oriented protocol for communications that helps in the exchange of messages between different devices over a network. The Internet Protocol (IP), which establishes the technique for sending data packets between computers, works with TCP.**{ ERROR HADLING AND DEBUGGING IS POSSIBLE IN TCP}**
+• **TCP** - Transmission Control Protocol is a connection-oriented protocol for communications that helps in the exchange of messages between different devices over a network. The Internet Protocol (IP), which establishes the technique for sending data packets between computers, works with TCP.***{ ERROR HADLING AND DEBUGGING IS POSSIBLE IN TCP}***
 
-• **UDP** - The User Datagram Protocol, or UDP, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups. It speeds up communications by not formally establishing a connection before data is transferred. This allows data to be transferred very quickly, but it can also cause packets to become lost in transit — and create opportunities for exploitation in the form of DDoS attacks.**{ ITS TRANSMISSION RATE IS MORE IN UDP}**
+• **UDP** - The User Datagram Protocol, or UDP, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups. It speeds up communications by not formally establishing a connection before data is transferred. This allows data to be transferred very quickly, but it can also cause packets to become lost in transit — and create opportunities for exploitation in the form of DDoS attacks.***{ ITS TRANSMISSION RATE IS MORE IN UDP}***
 
 ### ◙ TCP vs. UDP
 
