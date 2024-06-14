@@ -102,6 +102,7 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 
 ## NMAP USE example
 
-### 1.![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3c5a5ff2-535f-4e6c-b5b0-a201199172f6) 
+### 1. Initiating a scan ( all the details we have to enter)
+![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3c5a5ff2-535f-4e6c-b5b0-a201199172f6) 
 
  
