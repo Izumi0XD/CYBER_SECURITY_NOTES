@@ -19,13 +19,13 @@
   ### • 4 Page
   ![Screenshot 2024-06-14 130514](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/8ecde326-8954-4362-ab7e-76f29d9747c9)
 
-## TCP (Transmission Control Protocol) & UDP (User Datagram Protocol)
+## ◙ TCP (Transmission Control Protocol) & UDP (User Datagram Protocol)
 
 • **TCP** - Transmission Control Protocol is a connection-oriented protocol for communications that helps in the exchange of messages between different devices over a network. The Internet Protocol (IP), which establishes the technique for sending data packets between computers, works with TCP.***{ ERROR HADLING AND DEBUGGING IS POSSIBLE IN TCP}***
 
 • **UDP** - The User Datagram Protocol, or UDP, is a communication protocol used across the Internet for especially time-sensitive transmissions such as video playback or DNS lookups. It speeds up communications by not formally establishing a connection before data is transferred. This allows data to be transferred very quickly, but it can also cause packets to become lost in transit — and create opportunities for exploitation in the form of DDoS attacks.***{ ITS TRANSMISSION RATE IS MORE IN UDP}***
 
-### ◙ TCP vs. UDP
+### • TCP vs. UDP
 
 1. UDP is faster but less reliable than TCP, another common transport protocol. In a TCP communication, the two computers begin by establishing a connection via an automated process called a ‘handshake.’ Only once this handshake has been completed will one computer actually transfer data packets to the other.
 2. UDP communications do not go through this process. Instead, one computer can simply begin sending data to the other
@@ -57,7 +57,7 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
    ### 1.
 ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/7913b4ac-84ab-43f6-90d1-4f0bf5975c36)
 
-## PORT SPECIFICATION 
+## ◙ PORT SPECIFICATION 
   : one of the most impostant and useful feature in NMAP is that we can specify the port number and specifications we can also scan all ports using **-p-** but it takes a lot of time so we can reduceit using **-T4-Pn** it takes way less Time
 
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/39ff19f2-132d-441e-a519-ff2c5977d2e4)
@@ -67,7 +67,7 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
   #### NMAP PATH
   ![Screenshot 2024-06-14 172932](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/d63fc260-222d-4844-a985-e7e455430fb1)
 
-  ## wafw00f TOOL
+  ## ◙ wafw00f TOOL
    : WAFW00F is a Python tool to help you fingerprint and identify Web Application Firewall (WAF) products. It is an active reconnaissance tool as it actually connects to the web server, but it starts out with a normal HTTP response and escalates as necessary.**{ it is a tol that heps us to identify which firewall is in use in tht paricular website}**
 
 ### 1. wafw00f SS
@@ -80,3 +80,10 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
   ### 3. Trying for gov.india.in
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/37183186-1dd4-43ff-b7a7-252c3d4f855a)
 
+
+  # ♦ HTTP STATUS MESSAGE
+   :HTTP status codes are three-digit responses from the server to the browser-side request. Everyone has probably gotten the classic 404 page-not-found error. That is an HTTP client error status code and there are a lot more of them. {Basicall a 3 didgit number which tells about the operation like satus}
+
+ #### [◙ HTTP STATUS MESSAGE](https://www.w3schools.com/tags/ref_httpmessages.asp)
+
+ 
