@@ -48,3 +48,4 @@ ________________________________________________________________________________
 
 # ♦ SPIDERFOOT 
    : SpiderFoot can be used offensively (e.g. in a red team exercise or penetration test) for reconnaissance of your target or defensively to ***gather information*** about what you or your organisation might have exposed over the Internet. You can target the following entities in a SpiderFoot scan: IP address.
+![Screenshot 2024-06-14 101207](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/81740504-f567-4c78-9eb6-bd7501600054)
