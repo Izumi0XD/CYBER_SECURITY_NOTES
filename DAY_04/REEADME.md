@@ -73,3 +73,10 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 ### 1. wafw00f SS
 ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/09eb2527-1859-497e-98f1-3f2fe13e8076)
 ### 2. wafw00f Example
+  #### 1. Trying For Youtube
+  ![Screenshot 2024-06-14 175606](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/33f98634-8cfd-4e3a-8944-f9b6d76ab76e)
+  #### 2. Trying for Uidai.gov.in
+  ![Screenshot 2024-06-14 175906](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/e937884f-b859-4da8-9fb4-450f290eec94)
+  ### 3. Trying for gov.india.in
+  ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/37183186-1dd4-43ff-b7a7-252c3d4f855a)
+
