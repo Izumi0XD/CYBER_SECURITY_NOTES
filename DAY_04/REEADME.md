@@ -94,4 +94,9 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 ![Screenshot 2024-06-14 210723](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/977cd75a-aefd-4280-9d0d-fdf12a41d150)
 #### 2. Opening app-a32983.js file in Network
 ![Screenshot 2024-06-14 210746](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/7e9103e9-a61f-4ff5-9c4b-cd2e982b7074)
+
+
+# ♦ USE ***man nmap***
+ ### 1. press h after that (Read this CREFULLY THIS IS IMPORTANT)
+![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3b9f66d5-6566-469d-81ac-2a75c46e9588)
  
