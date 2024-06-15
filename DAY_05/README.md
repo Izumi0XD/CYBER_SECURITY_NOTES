@@ -15,9 +15,7 @@
 #### • OWASP TOP 10
 
 ##### 1. Broken Access Control
-  : is a security vulnerability that occurs ***when a user can gain unauthorized access to certain parts of a web application or system.***
-    
-  This can include accessing data, modifying content, or performing actions that they should not be able to do. It often happens due to flaws in the design or implementation of access control mechanisms, or mistakes in authentication and authorization processes.
+  : is a security vulnerability that occurs ***when a user can gain unauthorized access to certain parts of a web application or system.*** <br />This can include accessing data, modifying content, or performing actions that they should not be able to do. It often happens due to flaws in the design or implementation of access control mechanisms, or mistakes in authentication and authorization processes.
   
 ##### 2. Cryptographic Failures
   :  refers to ***a security issue that occurs when sensitive data is exposed due to improper implementation of cryptographic protocols or algorithms.***
