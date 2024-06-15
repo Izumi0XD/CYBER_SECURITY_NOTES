@@ -108,4 +108,7 @@ However, this speed creates tradeoffs. If a UDP datagram is lost in transit, it 
 ### 2.  ( all the details we have to enter)
 ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/dda12ded-8466-474a-a89e-c656d4df801e)
 
+#### • [CLOUDFLARE](https://www.cloudflare.com/)
+  : Cloudflare helps customers with cloud deployments by making their Internet properties faster, more secure, and more reliable. Cloudflare acts as a reverse proxy* that sits in front of any type of cloud infrastructure.{Basically for websiteor Domain safety purpose}.
+
  
