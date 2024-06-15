@@ -27,7 +27,7 @@
   : ***It occurs when security is not adequately integrated into the application during the design phase, leading to vulnerabilities that can be exploited***
 
 ##### 5. Security Misconfiguration
-  : Incorrectly configured security settings that expose the system to attacks.
+  : is an ***error or vulnerability in the setup of code or systems that allows attackers to access sensitive data.*** It can occur due to improper security settings, maintenance issues, or using default configurations that are not secure
 
 ##### 6. Vulnerable and Outdated Components
   : Using software with known vulnerabilities due to outdated versions.
