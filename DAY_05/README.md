@@ -16,10 +16,10 @@
   :  refers to ***a security issue that occurs when sensitive data is exposed due to improper implementation of cryptographic protocols or algorithms.*** This can include problems like weak encryption, incorrect key management, insufficient randomness, or inadequate authentication measures
   
 ##### 3. Injection
-  : When malicious data tricks the app into executing unintended commands.
+  : is a type of vulnerability in computer security ***where an attacker can send malicious code through an application to another system. This can lead to unauthorized access, data breaches, or even complete system compromise.*** It often occurs when user input is not properly sanitized, allowing attackers to inject and execute malicious code
 
 ##### 4. Insecure Design
-  : Lack of proper security measures in the design phase, leading to vulnerabilities. 
+  : ***It occurs when security is not adequately integrated into the application during the design phase, leading to vulnerabilities that can be exploited***
 
 ##### 5. Security Misconfiguration
   : Incorrectly configured security settings that expose the system to attacks.
