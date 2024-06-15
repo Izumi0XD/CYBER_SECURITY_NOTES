@@ -38,7 +38,6 @@
 ##### 8. Software and Data Integrity Failures
   : occur when an attacker can modify or delete data in an unauthorized manner due to vulnerabilities in the software or poor coding practices. ***Using untrusted software or updates that compromise data integrity.*** < br/> This compromises the trustworthiness and accuracy of the system’s data and operations
 ##### 9. Security Logging and Monitoring Failures
-  : Inadequate logging and monitoring, making it hard to detect breaches.
-
+  : are ***vulnerabilities that occur when a system or application fails to properly log or monitor security events.*** <br /> This can result in attackers gaining unauthorized access without detection, and delays in the response to security incidents
 ##### 10. Server-Side Request Forgery (SSRF)
-  : When an attacker tricks the server into accessing internal resources.
+  : is ***a web security vulnerability that allows an attacker to cause the server-side application to make requests to an unintended location, such as internal-only services within an organization’s infrastructure.*** < br/> When an attacker tricks the server into accessing internal resources.This can lead to information disclosure or manipulation of internal systems
