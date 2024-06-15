@@ -36,8 +36,7 @@
   :  are ***vulnerabilities related to the mechanisms used to verify the identity and authenticity of users.*** < br/> These failures can lead to unauthorized access, identity theft, or system compromise if not properly implemented or if the authentication scheme is weak.{ Basically a weakness in login system}.
 
 ##### 8. Software and Data Integrity Failures
-  : Using untrusted software or updates that compromise data integrity.
-
+  : occur when an attacker can modify or delete data in an unauthorized manner due to vulnerabilities in the software or poor coding practices. ***Using untrusted software or updates that compromise data integrity.*** < br/> This compromises the trustworthiness and accuracy of the system’s data and operations
 ##### 9. Security Logging and Monitoring Failures
   : Inadequate logging and monitoring, making it hard to detect breaches.
 
