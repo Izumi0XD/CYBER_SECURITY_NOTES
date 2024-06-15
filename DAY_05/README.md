@@ -3,6 +3,11 @@
 ## ◙ TRYHACKME 
   : TryHackMe is a free online platform for learning cyber security, using hands-on exercises and labs, all through your browser!{***A MUST TRY WEBSITE TO LEARN AND PRACTICE CYBERSECURITY***}
 
+### BASIC PENTESTING
+  : This machine allows you ot practice app hacking and privellege escalation
+  
+![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/19b9fcb4-51c6-4801-a10e-43e1f302f63b)
+
 
 ### ◙ OWASP
    : The Open Worldwide Application Security Project is an online community that produces freely available articles, methodologies, documentation, tools, and technologies in the fields of IoT, system software and web application security. The OWASP provides free and open resources. {The Open Web Application Security Project maintains a regularly-updated list of the most pressing web application security concerns.}
