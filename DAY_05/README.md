@@ -45,10 +45,10 @@
 ## ◙ SEARCHSPLOIT 
   : a command line search tool for Exploit-DB that also allows you to take a copy of Exploit Database with you, everywhere you go. { It ia a command line which helps us to find all the known exploits or vulnerabilities mainly use for penetration and stuff.}
 
-  #### •1
+  #### • 1 SIMPLE HELP MENU
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/4bd52e90-d7d1-4eb2-b321-8f697a9603c2)
 
-  #### •2 
+  #### •2 SPLIOS OR VULNERABILITIES OF AN ANDROID
   ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/f53634ef-5c3f-41e3-a0d3-b70aea7208c5)
 
 
