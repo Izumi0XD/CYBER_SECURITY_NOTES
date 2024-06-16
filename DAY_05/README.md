@@ -62,3 +62,12 @@
 • ***CVE*** – Common Vulnerabilities and Exposures (CVE) is a list of publicly disclosed vulnerabilities and exposures that is maintained by MITRE.Common Vulnerabilities and Exposures (CVE) is a database of publicly disclosed information security issues. A CVE number uniquely identifies one vulnerability from the list. CVE provides a convenient, reliable way for vendors, enterprises, academics, and all other interested parties to exchange information about cyber security issues. Enterprises typically use CVE, and corresponding CVSS scores, for planning and prioritization in their vulnerability management programs. 
 
 • ***NVD*** – The National Vulnerability Database (NVD) is a database, maintained by [NIST](https://nvd.nist.gov/vuln), that is fully synchronized with the MITRE CVE list.
+
+#### ◙ WHAT IS BRUTE-FORCE ATTACK 
+  : In cryptography, a brute-force attack consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found.
+
+#### ◙ WHAT IS HASH CRACKING 
+  : Hash cracking is a technique used by penetration testers to recover plain text passwords from their encrypted or hashed forms. Hashes are one-way functions that transform any input into a fixed-length output, making it hard to reverse the process.{ Getting the orignal hidden text in the hash format} 
+
+#### ◙ WHAT IS BRUTE-FORCE ATTACK 
+  : 
