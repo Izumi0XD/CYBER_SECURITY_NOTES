@@ -42,5 +42,15 @@
 ##### 10. Server-Side Request Forgery (SSRF)
   : is ***a web security vulnerability that allows an attacker to cause the server-side application to make requests to an unintended location, such as internal-only services within an organization’s infrastructure.*** < br/> When an attacker tricks the server into accessing internal resources.This can lead to information disclosure or manipulation of internal systems
 
+## ◙ SEARCHSPLOIT 
+  : a command line search tool for Exploit-DB that also allows you to take a copy of Exploit Database with you, everywhere you go. { It ia a command line which helps us to find all the known exploits or vulnerabilities mainly use for penetration and stuff.}
+
+  #### •1
+  ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/4bd52e90-d7d1-4eb2-b321-8f697a9603c2)
+
+  #### •2 
+  ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/f53634ef-5c3f-41e3-a0d3-b70aea7208c5)
+
+
 ### EXPLOIT DATABASE 
   : Exploit-DB is a widely recognized online public database and platform that provides information about security vulnerabilities, exploits, and their corresponding proof-of-concept code.
