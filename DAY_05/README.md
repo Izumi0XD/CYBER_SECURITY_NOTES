@@ -54,3 +54,11 @@
 
 ### EXPLOIT DATABASE 
   : Exploit-DB is a widely recognized online public database and platform that provides information about security vulnerabilities, exploits, and their corresponding proof-of-concept code.
+
+## ♦ Defining CVSS, CVE and NVD
+
+• ***CVSS*** – The Common Vulnerability Scoring System (CVSS) is a system widely used in vulnerability management programs. CVSS indicates the severity of an information security vulnerability, and is an integral component of many vulnerability scanning tools.The Common Vulnerability Scoring System (aka CVSS Scores) provides a numerical (0-10) representation of the severity of an information security vulnerability. CVSS scores are commonly used by infosec teams as part of a vulnerability management program to provide a point of comparison between vulnerabilities, and to prioritize remediation of vulnerabilities.
+
+• ***CVE*** – Common Vulnerabilities and Exposures (CVE) is a list of publicly disclosed vulnerabilities and exposures that is maintained by MITRE.Common Vulnerabilities and Exposures (CVE) is a database of publicly disclosed information security issues. A CVE number uniquely identifies one vulnerability from the list. CVE provides a convenient, reliable way for vendors, enterprises, academics, and all other interested parties to exchange information about cyber security issues. Enterprises typically use CVE, and corresponding CVSS scores, for planning and prioritization in their vulnerability management programs. 
+
+• ***NVD*** – The National Vulnerability Database (NVD) is a database, maintained by [NIST](https://nvd.nist.gov/vuln), that is fully synchronized with the MITRE CVE list.
