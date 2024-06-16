@@ -69,5 +69,5 @@
 #### ◙ WHAT IS HASH CRACKING 
   : Hash cracking is a technique used by penetration testers to recover plain text passwords from their encrypted or hashed forms. Hashes are one-way functions that transform any input into a fixed-length output, making it hard to reverse the process.{ Getting the orignal hidden text in the hash format} 
 
-#### ◙ WHAT IS BRUTE-FORCE ATTACK 
-  : 
+#### ◙ WHAT IS SERVICE ENUMERATION
+  :  A method used to find out the service version that is available on a particular port on the target system. This version information is important, because with this information the penetration tester can search for security vulnerabilities that exist for that software version.{ To find out the available service version on targets device to find out its vulnrabilities}
