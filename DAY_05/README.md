@@ -41,3 +41,6 @@
   : are ***vulnerabilities that occur when a system or application fails to properly log or monitor security events.*** <br /> This can result in attackers gaining unauthorized access without detection, and delays in the response to security incidents
 ##### 10. Server-Side Request Forgery (SSRF)
   : is ***a web security vulnerability that allows an attacker to cause the server-side application to make requests to an unintended location, such as internal-only services within an organization’s infrastructure.*** < br/> When an attacker tricks the server into accessing internal resources.This can lead to information disclosure or manipulation of internal systems
+
+### EXPLOIT DATABASE 
+  : Exploit-DB is a widely recognized online public database and platform that provides information about security vulnerabilities, exploits, and their corresponding proof-of-concept code.
