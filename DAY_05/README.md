@@ -71,3 +71,7 @@
 
 #### ◙ WHAT IS SERVICE ENUMERATION
   :  A method used to find out the service version that is available on a particular port on the target system. This version information is important, because with this information the penetration tester can search for security vulnerabilities that exist for that software version.{ To find out the available service version on targets device to find out its vulnrabilities}
+
+ • TO COPY
+   : cd to the locstion where u wanna copy
+    sudo -r <the name of the thing i wanna copy> </location of that thing/> 
