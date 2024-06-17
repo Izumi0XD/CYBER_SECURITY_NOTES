@@ -79,4 +79,11 @@
 # ♦ NGROK 
   : ngrok is a globally distributed reverse proxy that secures, protects and accelerates your applications and network services, no matter where you run them. You can think of ngrok as the front door to your applications.
 
-  ### • How to install(https://dashboard.ngrok.com/get-started/setup/windows) website > Go to the Linux option > Then go the download option > Copy th URL of the DOwnload [link](https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz) of the x86-64 version 
+  ### • How to install :
+ 1. Go to the [NGROK](https://dashboard.ngrok.com/get-started/setup/windows) website > Go to the Linux option
+ 2. > Then go the download option
+ 3. > Copy th URL of the DOwnload [link](https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz) of the x86-64 version
+ 4. > Then go to the kali select a location and make a new die using ***mkdir**
+ 5. > Use ***wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz {that is the download link}
+ 6. > Then extract the downloaded file using ***sudo tar -xvzf*** And  the name of the downloaded file
+    ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/7c5853d0-a866-42d5-9b6e-2da0e91bc0d6)
