@@ -74,4 +74,4 @@
 
  • TO COPY
    : cd to the locstion where u wanna copy
-    sudo -r <the name of the thing i wanna copy> </location of that thing/> 
+    sudo -r [the name of the thing i wanna copy] </location of that thing/> 
