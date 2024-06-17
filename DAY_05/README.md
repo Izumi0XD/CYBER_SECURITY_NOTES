@@ -75,3 +75,8 @@
  • TO COPY
    : cd to the locstion where u wanna copy
     sudo -r [the name of the thing i wanna copy] </location of that thing/> 
+
+# ♦ NGROK 
+  : ngrok is a globally distributed reverse proxy that secures, protects and accelerates your applications and network services, no matter where you run them. You can think of ngrok as the front door to your applications.
+
+  ### • How to install(https://dashboard.ngrok.com/get-started/setup/windows) website > Go to the Linux option > Then go the download option > Copy th URL of the DOwnload [link](https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz) of the x86-64 version 
