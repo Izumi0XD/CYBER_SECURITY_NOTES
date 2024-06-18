@@ -86,6 +86,7 @@
  4. > Then go to the kali select a location and make a new die using ***mkdir**
  5. > Use ***wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz {that is the download link}
  6. > Then extract the downloaded file using ***sudo tar -xvzf*** And  the name of the downloaded file
+ 7. . to authenticate u havee to copy and paste the authentication token and run the command ***./ngrok*** >the token that we copied<.  
     > 
     ![image](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/7c5853d0-a866-42d5-9b6e-2da0e91bc0d6)
     
