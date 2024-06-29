@@ -15,13 +15,16 @@
     sudo nmap -A -sV -vv -oN >file_name.txt< >IP< 
 ![Screenshot 2024-06-29 141853](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/74f4d0d4-9430-4e9b-b4b5-982ac3f98eb1)
 
-#### 4. Search for th esploits by using ***searchsploit***.
+#### 4. Search for the sploits by using ***searchsploit***.
 
 
 #### 5. Try searching for hiddin directories inside the Ip by using ***gobuster*** :
     gobuster dir -u >IP< -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 
-    
+#### 6. By openiing that directory in th webpge we can see the text thr and by seeing that we can understand that there are 2 user and ther name starts with K & J.
+
+#### 7. To know the user names we will use enum4linux :
+    enum4linux -a >IP< 
 ![Screenshot 2024-06-21 114304](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/32bfc019-dd40-4235-9c2b-09b6ca78b2ae)
 ![Screenshot 2024-06-21 230846](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/631a4c97-df20-4c99-b197-846cb982a3e6)
 ![Screenshot 2024-06-24 113601](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/81e5cf0a-8981-419c-968d-a06ca7688576)
