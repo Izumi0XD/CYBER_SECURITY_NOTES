@@ -2,7 +2,14 @@
 ## • Active Directory :
    Active Directory is a directory service developed by Microsoft for Windows domain networks. Windows Server operating systems include it as a set of processes and services. Originally, only centralized domain management used Active Directory { ***facilitates authentication and authorization services for the organizatio*** }
  ## ◙ ***TRYHACKME ROOM***
-# ♦ BASIC PENTESTING
+# ♦ BASIC PENTESTING : 
+#### • Step-By-Step Guide 
+
+#### 1. First we have to connect it to the TRYHACKME platform for that we have to go to the ***Acess*** in profile and then Download the open vpn file in ***.ovpn*** format 
+#### 2. Connect to the Vpn using ***sudo openvpn <file that u downloaded>.ovpn
+![Screenshot 2024-06-19 181441](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/9f832b05-537c-4f1a-b5ee-0be45087e526)
+
+
 ![Screenshot 2024-06-29 141853](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/74f4d0d4-9430-4e9b-b4b5-982ac3f98eb1)
 ![Screenshot 2024-06-21 114304](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/32bfc019-dd40-4235-9c2b-09b6ca78b2ae)
 ![Screenshot 2024-06-21 230846](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/631a4c97-df20-4c99-b197-846cb982a3e6)
