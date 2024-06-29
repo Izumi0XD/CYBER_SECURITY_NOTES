@@ -11,9 +11,14 @@
 
 ## ***Answers
 
-• ***What is the name of the hidden directory on the web server(enter name without /)?*** ✏ development
-• ***What is the username?*** ✏ jan
-• ***What is the password?*** ✏ armando
-• ***What service do you use to access the server(answer in abbreviation in all caps)?*** ✏ SSH
-• ***What is the name of the other user you found(all lower case)?*** ✏ kay
-• ***What is the final password you obtain?*** ✏ heresareallystrongpasswordthatfollowsthepasswordpolicy$$
+• ***What is the name of the hidden directory on the web server(enter name without /)?*** ⇨ development.
+
+• ***What is the username?*** ⇨ jan.
+
+• ***What is the password?*** ⇨ armando.
+
+• ***What service do you use to access the server(answer in abbreviation in all caps)?*** ⇨ SSH.
+
+• ***What is the name of the other user you found(all lower case)?*** ⇨ kay.
+
+• ***What is the final password you obtain?*** ⇨ heresareallystrongpasswordthatfollowsthepasswordpolicy$$
