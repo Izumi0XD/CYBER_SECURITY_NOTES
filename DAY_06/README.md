@@ -23,6 +23,7 @@
 
 ### • 4. Search for the sploits by using ***searchsploit***.
 
+![Screenshot 2024-06-16 220914](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3a87ab5f-4ea2-4490-9ee0-44c76e7dc77b)
 
 ### • 5. Try searching for hiddin directories inside the Ip by using ***gobuster*** :
     gobuster dir -u >IP< -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt 
@@ -52,7 +53,7 @@
 ![Screenshot 2024-06-24 113732](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/a7a9e912-489e-403a-931d-a53f4131f7d9)
 ![Screenshot 2024-06-24 113620](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/14b13695-8d15-45da-bd4b-726e29be8673)
 ![Screenshot 2024-06-24 113751](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/534e5a45-709f-4936-a057-347fa33a097b)
-![Screenshot 2024-06-16 220914](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3a87ab5f-4ea2-4490-9ee0-44c76e7dc77b)
+
 
 ## ***Answers***
 
