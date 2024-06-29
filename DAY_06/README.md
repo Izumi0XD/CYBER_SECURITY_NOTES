@@ -5,8 +5,10 @@
 # ♦ BASIC PENTESTING : 
 #### • Step-By-Step Guide 
 
-#### 1. First we have to connect it to the TRYHACKME platform for that we have to go to the ***Acess*** in profile and then Download the open vpn file in ***.ovpn*** format 
-#### 2. Connect to the Vpn using ***sudo openvpn <file that u downloaded>.ovpn
+#### 1. First we have to connect it to the TRYHACKME platform for that we have to go to the ***Acess*** in profile and then Download the open vpn file in ***.ovpn*** format.
+
+
+#### 2. Connect to the Vpn using ***sudo openvpn >file that u downloaded<.ovpn***.
 ![Screenshot 2024-06-19 181441](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/9f832b05-537c-4f1a-b5ee-0be45087e526)
 
 
