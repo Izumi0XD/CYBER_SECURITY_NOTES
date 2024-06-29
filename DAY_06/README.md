@@ -1,5 +1,7 @@
 # ♦ Day 06
-## Active directory
+## Active Directory 
+ ## ◙ ***TRYHACKME ROOM***
+# ♦ BASIC PENTESTING
 ![Screenshot 2024-06-29 141853](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/74f4d0d4-9430-4e9b-b4b5-982ac3f98eb1)
 ![Screenshot 2024-06-21 114304](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/32bfc019-dd40-4235-9c2b-09b6ca78b2ae)
 ![Screenshot 2024-06-21 230846](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/631a4c97-df20-4c99-b197-846cb982a3e6)
@@ -9,7 +11,7 @@
 ![Screenshot 2024-06-24 113751](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/534e5a45-709f-4936-a057-347fa33a097b)
 ![Screenshot 2024-06-16 220914](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3a87ab5f-4ea2-4490-9ee0-44c76e7dc77b)
 
-## ***Answers
+## ***Answers***
 
 • ***What is the name of the hidden directory on the web server(enter name without /)?*** ⇨ development.
 
