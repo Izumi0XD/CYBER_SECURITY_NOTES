@@ -44,6 +44,10 @@
  -V ⇨ to be able to see the process realtime </br>
 
 ![Screenshot 2024-06-21 230846](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/631a4c97-df20-4c99-b197-846cb982a3e6)
+
+### • 9. We got the password for jan thn we have to try for ***ssh jan@>IP<*** to get into the jan's system by entering the password which we obtained by using hydra {armando}.
+
+### • 10. Then in 
 ![Screenshot 2024-06-24 113601](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/81e5cf0a-8981-419c-968d-a06ca7688576)
 ![Screenshot 2024-06-24 113732](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/a7a9e912-489e-403a-931d-a53f4131f7d9)
 ![Screenshot 2024-06-24 113620](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/14b13695-8d15-45da-bd4b-726e29be8673)
