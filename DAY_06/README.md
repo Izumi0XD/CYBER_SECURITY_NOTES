@@ -1,5 +1,6 @@
 # ♦ Day 06
-## Active Directory 
+## • Active Directory :
+   Active Directory is a directory service developed by Microsoft for Windows domain networks. Windows Server operating systems include it as a set of processes and services. Originally, only centralized domain management used Active Directory { ***facilitates authentication and authorization services for the organizatio*** }
  ## ◙ ***TRYHACKME ROOM***
 # ♦ BASIC PENTESTING
 ![Screenshot 2024-06-29 141853](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/74f4d0d4-9430-4e9b-b4b5-982ac3f98eb1)
