@@ -8,3 +8,12 @@
 ![Screenshot 2024-06-24 113620](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/14b13695-8d15-45da-bd4b-726e29be8673)
 ![Screenshot 2024-06-24 113751](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/534e5a45-709f-4936-a057-347fa33a097b)
 ![Screenshot 2024-06-16 220914](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/3a87ab5f-4ea2-4490-9ee0-44c76e7dc77b)
+
+## ***Answers
+
+• ***What is the name of the hidden directory on the web server(enter name without /)?*** ✏ development
+• ***What is the username?*** ✏ jan
+• ***What is the password?*** ✏ armando
+• ***What service do you use to access the server(answer in abbreviation in all caps)?*** ✏ SSH
+• ***What is the name of the other user you found(all lower case)?*** ✏ kay
+• ***What is the final password you obtain?*** ✏ heresareallystrongpasswordthatfollowsthepasswordpolicy$$
