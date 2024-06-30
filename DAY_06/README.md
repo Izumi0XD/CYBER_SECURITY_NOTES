@@ -8,7 +8,7 @@
 ⇨ This is a machine that allows you to practise web app hacking and privilege escalation
    </br>
    </br>
-#### • Step-By-Step Guide 
+### ◙ Step-By-Step Guide 
 
 
 ### • 1. First we have to connect it to the TRYHACKME platform for that we have to go to the ***Acess*** in profile and then Download the open vpn file in ***.ovpn*** format.
