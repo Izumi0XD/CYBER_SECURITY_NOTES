@@ -81,6 +81,7 @@ as we can see it dont give us full details On the Open Ports so we will again us
      
     exploit
 
+now we are in target's system
 
 # ♦ ANSWERS :
 
