@@ -32,4 +32,8 @@
 |  Flexibility  | Highly flexible with many options         | Less flexible, focuses on speed     |
 |  Programming  | Written in C                              | Written in Rust                     |
 |     Usage     | Widely used for detailed network analysis | Best for quick port scanning        |
-|  Installation | Available on most systems                 | Requires installation of Rust       |
+|  Installation | Available on most systems                 | Requires installation of Rust       | </br>
+
+
+
+### • 4. Now Download the rustscan from its orignal website that is in github and here is the [LINK](https://github.com/RustScan/RustScan/releases/download/2.2.3/rustscan-2.2.3-x86_64-linux.tar.xz)
