@@ -87,7 +87,13 @@ as we can see it dont give us full details On the Open Ports so we will again us
 ## ◙ TASK 1 :
 
 ⍰. User.txt </br>
+
+
   ⇨ THM{SUPPLY_CHAIN_COMPROMISE} 
 
+  
+
 ⍰. root.txt </br>
+
+  
   ⇨ THM{UPDATE_YOUR_INSTALL}
