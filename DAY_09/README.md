@@ -5,5 +5,5 @@
 ## ◙ ***TRYHACKME ROOM***
  </br>
  
-# ♦ [SOURCE](https://tryhackme.com/r/room/source)) : 
+# ♦ [SOURCE](https://tryhackme.com/r/room/source) : 
 #### • Step-By-Step Guide 
