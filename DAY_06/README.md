@@ -3,8 +3,9 @@
    Active Directory is a directory service developed by Microsoft for Windows domain networks. Windows Server operating systems include it as a set of processes and services. Originally, only centralized domain management used Active Directory { ***facilitates authentication and authorization services for the organizatio*** }
  ## ◙ ***TRYHACKME ROOM***
  </br>
+ 
 # ♦ [BASIC PENTESTING](https://tryhackme.com/r/room/basicpentestingjt) : 
-⇨ Exploit a recent vulnerability and hack Webmin, a web-based system configuration tool. 
+⇨ This is a machine that allows you to practise web app hacking and privilege escalation
    </br>
    </br>
 #### • Step-By-Step Guide 
