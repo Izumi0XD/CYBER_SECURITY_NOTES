@@ -23,7 +23,7 @@
   #### ***⇨*** { ***NOTE: Rustscan is much more efficient when we have to scan all the port in a fast manner,rustscan is upgraded version of nmap but it dont give all the dtails of open ports so we acn again use nap to scan open ports after we get the open ports from using rustscan*** }</br>
 
 
-| First Header  | Second Header |
+| Feature       | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
