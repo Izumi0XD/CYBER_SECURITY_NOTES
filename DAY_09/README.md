@@ -23,7 +23,10 @@
   #### ***⇨*** { ***NOTE: Rustscan is much more efficient when we have to scan all the port in a fast manner,rustscan is upgraded version of nmap but it dont give all the dtails of open ports so we acn again use nap to scan open ports after we get the open ports from using rustscan*** }</br>
 
 
-| Feature    | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+|    Feature    |                    Nmap                   |               RustScan              |
+| ------------- | ----------------------------------------- | ----------------------------------- |
+|     Speed     | Slower due to comprehensive scanning      | Very fast, designed for quick scans |
+|  Flexibility  | Highly flexible with many options         | Less flexible, focuses on speed     |
+|  Programming  | Written in C                              | Written in Rust                     |
+|     Usage     | Widely used for detailed network analysis | Best for quick port scanning        |
+|  Installation | Available on most systems                 | Requires installation of Rust       |
