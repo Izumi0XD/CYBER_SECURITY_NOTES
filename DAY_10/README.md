@@ -19,7 +19,7 @@
     nmap -sV >IP add<
 </br>
 ⇨ as we can see that the there are 2 services are alive </br>
-     Service   Version </br>
+     Service --- Version </br>
   1.  ssh    - OpenSSH               (Secure Shell) </br>
   2.  http   - Apache httpd 2.4.29   (Hypertext Transfer Protocol).</br>
 
