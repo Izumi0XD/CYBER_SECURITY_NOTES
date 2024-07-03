@@ -24,7 +24,7 @@
   2.  http   - Apache httpd 2.4.29   (Hypertext Transfer Protocol).
 
 
-### • 3. Thw next task is to find hidden directory as we already know that for finding hidden directories we use ***gobuster***.
+### • 3. The next task is to find hidden directory as we already know that for finding hidden directories we use ***gobuster***.
     gobuster dir -u >IP add< -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt
 
 ⇨ As we can see that there are 5 hidden directories in total whaich are as
@@ -34,7 +34,7 @@
 4. /panel  -  an interface based page where we can uplaod files.
 5. /server  -  a permission denied page.
 
-### • 4. No wfro getting into server and collecting required data(i.e user.txt in task 3) we will upload a reverse shell (which will bring back a connection back from server back to our device)
+### • 4. Now for getting into the server and collecting required data (i.e user.txt in task 3) we will upload a reverse shell (which will bring back a connection back from server back to our device)
 the suggested reverse shel for this experiment is a shell by ***Pentestmonkey*** by using command -
 
     wget http://pentestmonkey.net/tools/php-reverse-shell/php-reverse-shell-1.0.tar.gz
