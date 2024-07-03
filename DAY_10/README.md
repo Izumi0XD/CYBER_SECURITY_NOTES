@@ -5,7 +5,7 @@
 ## ◙ ***TRYHACKME ROOM***
  </br>
  
-# ♦ [RootMe](https://tryhackme.com/r/room/rootme) : 
+# ♦ [RootMe](https://tryhackme.com/r/room/rrootme) : 
    ⇨ Exploit a recent vulnerability and hack Webmin, a web-based system configuration tool. 
    </br>
    </br>
