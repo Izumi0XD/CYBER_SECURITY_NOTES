@@ -6,7 +6,7 @@
  </br>
  
 # ♦ [RootMe](https://tryhackme.com/r/room/rrootme) : 
-   ⇨ Exploit a recent vulnerability and hack Webmin, a web-based system configuration tool. 
+   ⇨ A ctf for beginners, can you root me? 
    </br>
    </br>
 ### ◙ Step-By-Step Guide 
