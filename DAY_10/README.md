@@ -42,3 +42,7 @@ the suggested reverse shel for this experiment is a shell by ***Pentestmonkey***
 ⇨ For ip[ we have to provide tun0's ip and port can be any port which is not in use or we won't use.
 ### • 5. For uploading this file we will use a new tool known as ***Burpsuite*** thi sis a very good for pentresting and stuff on webpages. So now we have to set our burpsuite by doing folloing steps.
   • 1. Firstly we have to install an extension on any browser we are gonna use it's name is "[FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)"
+  
+  • 2. Now we have to set our proxy to work for tht we have to go to our ***Burpsuite > Proxy > Setting > Then we have to set our port no > Then we will set our FoxyProxy's port no and number***
+  
+  • 3. 
