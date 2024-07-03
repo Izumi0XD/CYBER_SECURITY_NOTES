@@ -18,10 +18,10 @@
 ### • 2. As the Task 2 is asking for how many ports are iopen so we are exactly gonna scan the ports and this process of gathering informations bya scanning and stuff is is also known as ***RECONNAISSANCE*** as like a professional name for doint scanning and stuff. Anyway we will do scanning using nmap and cammaod for taht is :
     nmap -sV >IP add<
 </br>
-⇨ as we can see that the there are 2 services are alive 
-     Service   Version 
+⇨ as we can see that the there are 2 services are alive </br>
+     Service   Version </br>
   1.  ssh    - OpenSSH               (Secure Shell) </br>
-  2.  http   - Apache httpd 2.4.29   (Hypertext Transfer Protocol).
+  2.  http   - Apache httpd 2.4.29   (Hypertext Transfer Protocol).</br>
 
 
 ### • 3. The next task is to find hidden directory as we already know that for finding hidden directories we use ***gobuster***.
@@ -38,7 +38,7 @@
 the suggested reverse shel for this experiment is a shell by ***Pentestmonkey*** by using command -
 
     wget http://pentestmonkey.net/tools/php-reverse-shell/php-reverse-shell-1.0.tar.gz
-⇨ After downlaoding the file we have to extract it and the open it by nano or mousepad or vscode whatever we just have to change it's ip and port no.
+⇨ After downlaoding the file we have to extract it and the open it by nano or mousepad or vscode whatever we just have to change it's ip and port no.</br>
 ⇨ For ip[ we have to provide tun0's ip and port can be any port which is not in use or we won't use.
 ### • 5. For uploading this file we will use a new tool known as ***Burpsuite*** thi sis a very good for pentresting and stuff on webpages. So now we have to set our burpsuite by doing folloing steps.
   • 1. Firstly we have to install an extension on any browser we are gonna use it's name is "[FoxyProxy](https://addons.mozilla.org/en-US/firefox/addon/foxyproxy-standard/)"
