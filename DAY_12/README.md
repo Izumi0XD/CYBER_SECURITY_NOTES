@@ -20,4 +20,18 @@ After this we have to check which one of the device is tht we are looking for so
 
     sudo nmap -O >Ip add<
 
-### • 2. Search For Vulne
+### • 2. Search For Vulnerability : Now we will be searching for the vulnerabilities of the ip we confirmed by doing nmap scans now for vulnerability searching we will be using the following command
+
+    namp -Pn -sV --script vuln -oN vuln-win7-nmap.txt >IP add<
+
+As we can see from above report tht there is a vulnerability availabe by the name "ms17-010".
+
+
+### • 3. Now we would like to get some details on the this Vulnerability, for that we will be using ***"Searchsploit"*** :
+
+    searchexploit ms17-010
+
+As we acan see there are 6 exploits for this vulnerability, we will be using the one which can be done (Metasploit) cuz it most efficient and easy to do
+
+
+### • 4. METASPLOIT : The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
