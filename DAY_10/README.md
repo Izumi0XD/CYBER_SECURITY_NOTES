@@ -45,4 +45,6 @@ the suggested reverse shel for this experiment is a shell by ***Pentestmonkey***
   
   • 2. Now we have to set our proxy to work for tht we have to go to our ***Burpsuite > Proxy > Setting > Then we have to set our port no > Then we will set our FoxyProxy's port no and number***
   
-  • 3. 
+  • 3. Ok now whhen its it done we can open ***Intruder*** and now we can interfere with the files which are goihng to the server
+
+  ### • 6. Now we have to bruteforce our php file by different php extensions given [Here](https://book.hacktricks.xyz/pentesting-web/file-upload)
