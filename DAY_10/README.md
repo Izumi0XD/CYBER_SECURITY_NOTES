@@ -80,3 +80,40 @@ Now we are root user to confirm tht ewe have to use ***whoami*** command
 
     find / -type f -name root.txt 
     cat /root/root.txt
+
+
+# ♦ ANSWERS :
+
+## ◙ TASK 2 :
+
+⍰. Scan the machine, how many ports are open?
+
+   ⇨ 2
+
+⍰. What version of Apache is running?
+
+   ⇨ 2.4.29
+
+⍰. What service is running on port 22?
+
+   ⇨ ssh
+
+⍰. What is the hidden directory?
+
+   ⇨/panel/
+
+## ◙ TASK 3 :
+
+⍰. user.txt
+
+   ⇨ THM{y0u_g0t_a_sh3ll}
+
+## ◙ TASK 4 :
+
+⍰. Search for files with SUID permission, which file is weird?
+
+   ⇨ /usr/bin/python
+
+⍰. root.txt
+
+   ⇨ THM{pr1v1l3g3_3sc4l4t10n}
