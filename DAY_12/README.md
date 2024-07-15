@@ -34,4 +34,17 @@ As we can see from above report tht there is a vulnerability availabe by the nam
 As we acan see there are 6 exploits for this vulnerability, we will be using the one which can be done (Metasploit) cuz it most efficient and easy to do
 
 
-### • 4. METASPLOIT : The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+### • 4. METASPLOIT : The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. </br>
+
+• Now to acess metasploit we have to type a command 
+
+    msfconsole
+
+• After getting into msfconsole we have to search for the vulnerability ***"ms17-010"***
+
+
+• Now select the 1st one with the name ***"Eternalblue"*** by using command ***"use 0"***
+
+    use 0
+
+ 
