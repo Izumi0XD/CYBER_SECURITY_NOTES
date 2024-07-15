@@ -2,7 +2,7 @@
 </br>
 </br>
 
-## ◙ ***Getting into an UNUNTU***
+## ◙ ***Getting into an UBUNTU***
  </br>
  
 # ♦ Getting into an UBUNTU : 
