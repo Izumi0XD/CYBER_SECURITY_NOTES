@@ -48,3 +48,21 @@ the suggested reverse shel for this experiment is a shell by ***Pentestmonkey***
   • 3. Ok now whhen its it done we can open ***Intruder*** and now we can interfere with the files which are goihng to the server
 
   ### • 6. Now we have to bruteforce our php file by different php extensions given [Here](https://book.hacktricks.xyz/pentesting-web/file-upload)
+
+   By doing this the intrtuder will try all the given php extensions and we can sucessfully upload our php file.
+
+### • 7. Now for getting a connection back we simply have to open netcat listner in a terminal and then run tht uploaded php file
+   for using netcat we have to give the given command 
+        
+    nc -lvnp >Port no. tht was given in shell<
+
+### • 8. Now to find our desired file we have to rrun a find command like
+
+    find / -type f -name user.txt 2> /dev/null
+   now we just have to cat the result 
+
+     cat /var/www/user.txt
+
+### • 9. Privilege Esclation
+
+   to gain root acess we have to run a privilege esclation command to find th ecode we gtg at GFTOBins [website](https://gtfobins.github.io/)
