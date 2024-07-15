@@ -81,3 +81,5 @@ now as we can see above we have to fill LPORT, LHOST, RHOSTS & RPORT by using :
   For this we will be using a tool called John The Ripper with the command:
 
     john --format=NT --rules -w=/usr/share/wordlists/rockyou.txt hashfile.txt
+
+And now we will finally get the password of our victim device 
