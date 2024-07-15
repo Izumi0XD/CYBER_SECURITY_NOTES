@@ -83,3 +83,5 @@ now as we can see above we have to fill LPORT, LHOST, RHOSTS & RPORT by using :
     john --format=NT --rules -w=/usr/share/wordlists/rockyou.txt hashfile.txt
 
 And now we will finally get the password of our victim device 
+
+# ♦ END
