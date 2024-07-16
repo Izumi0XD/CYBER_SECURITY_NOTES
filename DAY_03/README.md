@@ -1,5 +1,10 @@
 # ♦ Day 03
+</br>
+</br>
 
+## ◙ ***Basic Understandings***
+ </br>
+ 
 ## ◙ 1st Topic about VS CODE
    : Basically, we learned how to download vs code in kali.
 
