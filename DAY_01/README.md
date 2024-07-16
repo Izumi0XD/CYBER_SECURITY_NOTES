@@ -14,13 +14,13 @@
 
 ###  ***◙ Types of Threats*** :
 
-• ***Malware*** : Malware is any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.</br>
+   • ***Malware*** : Malware is any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.</br>
 
-• ***Phishing*** : Phishing is a form of social engineering and a scam where attackers deceive people into revealing sensitive information or installing malware such as viruses, worms, adware, or ransomware. </br> 
+   • ***Phishing*** : Phishing is a form of social engineering and a scam where attackers deceive people into revealing sensitive information or installing malware such as viruses, worms, adware, or ransomware. </br> 
 
-• ***Man-in-the-Middle (MitM) Attacks*** : A man-in-the-middle[a] (MITM) attack, or on-path attack, is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other, as the attacker has inserted themselves between the two user parties. </br>
+   • ***Man-in-the-Middle (MitM) Attacks*** : A man-in-the-middle[a] (MITM) attack, or on-path attack, is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each other, as the attacker has inserted themselves between the two user parties. </br>
 
-• ***Denial of Service (DoS) Attacks*** : In computing, a denial-of-service attack is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network. </br>
+   • ***Denial of Service (DoS) Attacks*** : In computing, a denial-of-service attack is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network. </br>
 
 
 3. Basic Concepts of CIA
