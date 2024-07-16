@@ -15,7 +15,7 @@
 
 ###  ***◙ Types of Threats*** :
 
- .</br>  • ***Malware*** : Malware is any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.</br>
+ • ***Malware*** : Malware is any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy. </br>
 
    • ***Phishing*** : Phishing is a form of social engineering and a scam where attackers deceive people into revealing sensitive information or installing malware such as viruses, worms, adware, or ransomware. </br> 
 
