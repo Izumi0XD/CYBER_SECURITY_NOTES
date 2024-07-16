@@ -7,7 +7,7 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_02](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_02) ⇨ ***Introduction to Linux.***
 
-### • [Day_03](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_03) ⇨ 
+### • [Day_03](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_03) ⇨ ***Basic Understandings.***
 
 ### • [Day_04](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_04) ⇨
 
