@@ -12,7 +12,7 @@
  ### • ***IMPORTANCE*** : </br>
    ⇨ Cybersecurity is essential for protecting our digital assets, including sensitive personal and financial information, intellectual property, and critical infrastructure. Cyberattacks can have serious consequences, including financial loss, reputational damage, and even physical harm.
 
-###  ***• Types of Threats*** :
+###  ***◙ Types of Threats*** :
 
 • ***Malware*** : Malware is any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.</br>
 
