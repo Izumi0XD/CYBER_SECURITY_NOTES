@@ -27,8 +27,7 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_12](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_12) ⇨ ***Learning about SQLMAP Injection.***
 
-
-### • [Day_13](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_13) ⇨
+### • [Day_13](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_13) ⇨ ***Try and Compromising Windows 7.***
 
 ### • [Day_14](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_14) ⇨
 
