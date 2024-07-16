@@ -11,7 +11,7 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_04](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_04) ⇨ ***Introduction to TRYHACKME and Networking.***
 
-### • [Day_05](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_05) ⇨ ***Practicing on Basic Pentesting room in TRYHACKME.***
+### • [Day_05](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_05) ⇨ ***Practicing on "Basic Pentesting" room in TRYHACKME.***
 
 ### • [Day_06](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_06) ⇨
 
@@ -19,7 +19,7 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_08](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_08) ⇨
 
-### • [Day_09](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_09) ⇨
+### • [Day_09](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_09) ⇨ ***Performing TRYHACKME room "SOURCE".***
 
 ### • [Day_10](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_10) ⇨
 
