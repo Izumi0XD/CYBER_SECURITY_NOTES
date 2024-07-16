@@ -21,7 +21,7 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_09](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_09) ⇨ ***Performing TRYHACKME room "SOURCE".***
 
-### • [Day_10](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_10) ⇨
+### • [Day_10](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_10) ⇨ ***Performing TRYHACKME room "RootMe".***
 
 ### • [Day_11](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_11) ⇨
 
