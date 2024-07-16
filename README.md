@@ -1,9 +1,9 @@
 # CYBER_SECURITY_NOTES
 WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON ENGH
 
-## ♦ INDEX
+# ♦ INDEX
 
-• [Day_01](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_01) ⇨ ***Introduction to Cyber Security***
+### • [Day_01](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_01) ⇨ ***Introduction to Cyber Security***
 
 • [Day_02](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_02) ⇨ ***Introduction to Linux***
 
