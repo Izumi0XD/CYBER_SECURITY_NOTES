@@ -24,10 +24,14 @@
    • ***Denial of Service (DoS) Attacks*** : In computing, a denial-of-service attack is a cyber-attack in which the perpetrator seeks to make a machine or network resource unavailable to its intended users by temporarily or indefinitely disrupting services of a host connected to a network. </br>
 
 
-3. Basic Concepts of CIA
-Confidentiality: Ensuring that information is accessible only to those authorized to have access.
-Integrity: Safeguarding the accuracy and completeness of information and processing methods.
-Availability: Ensuring that authorized users have access to information and associated assets when required.
+## ◙ ***Concepts of CIA*** :
+
+The Central Intelligence Agency (CIA) collects, evaluates, and disseminates vital information on economic, military, political, scientific, and other developments abroad to safeguard national security. 
+
+• Confidentiality: Ensuring that information is accessible only to those authorized to have access.
+• Integrity: Safeguarding the accuracy and completeness of information and processing methods.
+• Availability: Ensuring that authorized users have access to information and associated assets when required.
+
 4. Cybersecurity Ethics, Principles, and Best Practices
 Ethics: Upholding moral principles in the practice of cyber security, such as respecting privacy and ensuring the ethical use of data.
 Principles: Core principles including least privilege, defense in depth, and risk management.
