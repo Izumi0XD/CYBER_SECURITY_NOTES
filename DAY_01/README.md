@@ -29,7 +29,9 @@
 The Central Intelligence Agency (CIA) collects, evaluates, and disseminates vital information on economic, military, political, scientific, and other developments abroad to safeguard national security. 
 
 • Confidentiality: Ensuring that information is accessible only to those authorized to have access.
+
 • Integrity: Safeguarding the accuracy and completeness of information and processing methods.
+
 • Availability: Ensuring that authorized users have access to information and associated assets when required.
 
 4. Cybersecurity Ethics, Principles, and Best Practices
