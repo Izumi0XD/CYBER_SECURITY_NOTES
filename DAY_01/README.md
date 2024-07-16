@@ -34,10 +34,17 @@ The Central Intelligence Agency (CIA) collects, evaluates, and disseminates vita
 
 • Availability: Ensuring that authorized users have access to information and associated assets when required.
 
-4. Cybersecurity Ethics, Principles, and Best Practices
-Ethics: Upholding moral principles in the practice of cyber security, such as respecting privacy and ensuring the ethical use of data.
-Principles: Core principles including least privilege, defense in depth, and risk management.
-Best Practices: Implementing measures such as regular updates, strong passwords, encryption, and user education to enhance security.
+## ◙ ***Cybersecurity Ethics, Principles & Best Practices*** : 
+   Cybersecurity ethics refers to the moral principles and standards governing the conduct of cybersecurity professionals and the practices aimed at safeguarding data, computer systems, and networks from unauthorized access, breaches, and attacks.
+
+    
+• Ethics: Upholding moral principles in the practice of cyber security, such as respecting privacy and ensuring the ethical use of data.
+
+• Principles: Core principles including least privilege, defense in depth, and risk management.
+
+• Best Practices: Implementing measures such as regular updates, strong passwords, encryption, and user education to enhance security.
+
+
 5. Networking Concepts
 NAT (Network Address Translation): A method used to remap one IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
 ARP (Address Resolution Protocol): A protocol used for mapping an IP address to a physical machine address (MAC address) that is recognized in the local network.
