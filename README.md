@@ -31,7 +31,7 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_14](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_14) ⇨
 
-### • [Day_15](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_15) ⇨
+### • [Day_15](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_15) ⇨ ***Try and Compromising Ubuntu Linux.***
 
 ### • [Day_16](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_16) ⇨
 
