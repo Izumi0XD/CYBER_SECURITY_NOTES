@@ -45,6 +45,11 @@ The Central Intelligence Agency (CIA) collects, evaluates, and disseminates vita
 • Best Practices: Implementing measures such as regular updates, strong passwords, encryption, and user education to enhance security.
 
 
-5. Networking Concepts
-NAT (Network Address Translation): A method used to remap one IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
-ARP (Address Resolution Protocol): A protocol used for mapping an IP address to a physical machine address (MAC address) that is recognized in the local network.
+## ◙ ***Networking Concepts*** :
+ 
+  Computer networking refers to interconnected computing devices that can exchange data and share resources with each other. These networked devices use a system of rules, called communications protocols, to transmit information over physical or wireless technologies.
+
+  
+• NAT (Network Address Translation): A method used to remap one IP address space into another by modifying network address information in the IP header of packets while they are in transit across a traffic routing device.
+
+• ARP (Address Resolution Protocol): A protocol used for mapping an IP address to a physical machine address (MAC address) that is recognized in the local network.
