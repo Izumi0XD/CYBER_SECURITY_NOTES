@@ -5,16 +5,17 @@
 ## ◙ ***Introduction to Cyber Security***
  </br>
 
-### ***⍰ What is Cyber Security ?*** : </br>
+### ⍰***What is Cyber Security ?*** : </br>
    ⇨ Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. It involves the application of technologies, processes, and controls to safeguard computers, servers, mobile devices, electronic systems, and data from unauthorized access, damage, or disruption, The main goals of cybersecurity are to protect the confidentiality, integrity, and availability of digital information and assets </br> 
  
  
  ### • ***IMPORTANCE*** : </br>
+ 
    ⇨ Cybersecurity is essential for protecting our digital assets, including sensitive personal and financial information, intellectual property, and critical infrastructure. Cyberattacks can have serious consequences, including financial loss, reputational damage, and even physical harm.
 
 ###  ***◙ Types of Threats*** :
 
-   • ***Malware*** : Malware is any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.</br>
+ .</br>  • ***Malware*** : Malware is any software intentionally designed to cause disruption to a computer, server, client, or computer network, leak private information, gain unauthorized access to information or systems, deprive access to information, or which unknowingly interferes with the user's computer security and privacy.</br>
 
    • ***Phishing*** : Phishing is a form of social engineering and a scam where attackers deceive people into revealing sensitive information or installing malware such as viruses, worms, adware, or ransomware. </br> 
 
