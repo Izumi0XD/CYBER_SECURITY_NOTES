@@ -26,3 +26,63 @@ Kali Linux is a Linux distribution designed for digital forensics and penetratio
 • ***cd*** : Changes the current directory. </br>
 • ***mkdir*** : Creates a new directory. </br>
 • ***rm*** : Removes files or directories. </br>
+
+</br>
+
+### • 4. ***Networking Commands*** :
+</br>
+
+• ***ifconfig*** : Configures network interfaces. </br> 
+• ***ping*** : Checks the network connection to a server
+• ***netstat*** : Displays network connections, routing tables, and interface statistics. </br> 
+• ***traceroute*** : Traces the route packets take to a network host. </br> 
+• ***nslookup*** : Queries internet domain name servers. </br> 
+
+Here is a diagrammatic representation of how the ls command works:
+
+     +--------+
+     |  User  |
+     +--------+
+          |
+          v
+     +--------+
+     |  Shell |
+     +--------+
+          |
+          v
+     +--------+
+     | Kernel |
+     +--------+
+          |
+          v
+     +---------+
+     | FileSys |
+     +---------+
+
+### • 5. ***Service and Logs*** :
+
+
+• ***service*** : Manages system services
+• ***systemctl*** : Controls the systemd system and service manager
+• ***journalctl*** : Queries and displays messages from the journal
+
+
+6. ***System Administration Commands*** :
+
+
+• ***sudo*** : Executes a command as another user, typically the superuser
+• ***apt-get*** : Manages packages (installation, updates)
+• ***top*** : Displays tasks and system resource usage
+• ***chmod*** : Changes file permissions
+• ***chown*** : Changes file owner and group
+
+
+7. ***Linux File System / Directories*** :
+
+
+• ***/*** : Root directory
+• ***/bin*** : Essential command binaries
+• ***/etc*** : Configuration files
+• ***/home*** : User home directories
+• ***/var*** : Variable files like logs
+• ***/usr*** : User programs and data
