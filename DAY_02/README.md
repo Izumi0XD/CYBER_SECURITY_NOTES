@@ -19,3 +19,10 @@ We will need a platform where we can instal all our virtual machines {OS} instea
 
 Kali Linux is a Linux distribution designed for digital forensics and penetration testing. It is maintained and funded by Offensive Security. The software is based on the Debian Testing branch: most packages Kali uses are imported from the Debian repositories. [Kali Linux](https://www.kali.org/get-kali/)
 
+### • 3. ***Basic Linux commands for beginner's*** :
+
+• ***ls*** : Lists directory contents
+• ***pwd*** : Prints the current working directory
+• ***cd*** : Changes the current directory
+• ***mkdir*** : Creates a new directory
+• ***rm*** : Removes files or directories
