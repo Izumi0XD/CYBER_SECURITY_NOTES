@@ -12,5 +12,5 @@
 
 • [Kerala Hacker](https://github.com/keralahacker?tab=repositories): It is Sirs profile where we can learn some important things related to cybersecurity
 
-• [Vaishnavu C V](https://github.com/vaishnavucv) : Teash`s official profile in GITHUB
+• [Vaishnavu C V](https://github.com/vaishnavucv) : Teach`s official profile in GITHUB
 
