@@ -21,8 +21,8 @@ Kali Linux is a Linux distribution designed for digital forensics and penetratio
 
 ### • 3. ***Basic Linux commands for beginner's*** :
 
-• ***ls*** : Lists directory contents
-• ***pwd*** : Prints the current working directory
-• ***cd*** : Changes the current directory
-• ***mkdir*** : Creates a new directory
-• ***rm*** : Removes files or directories
+• ***ls*** : Lists directory contents </br>
+• ***pwd*** : Prints the current working directory </br>
+• ***cd*** : Changes the current directory </br>
+• ***mkdir*** : Creates a new directory </br>
+• ***rm*** : Removes files or directories </br>
