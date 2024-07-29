@@ -6,6 +6,7 @@
  </br>
   There is an update in rockyou.txt file containing a far better number of word combinations 
   </br>
+  
   (Rockyou.txt)[https://github.com/hkphh/rockyou2024.txt]
  </br>
 # ♦ Getting into an UBUNTU : 
