@@ -54,4 +54,11 @@
 ***◙ Improving the Payload***
  As we can see that the paylaod has been shot down by the AV so we have to do some changes in tht so it can't be detected by the AV.
  </br>
+  </br>
  • For doingb such changes we will be using Our beloved ***"CHAT GPT"*** in such a manner >
+  </br>
+
+ ### • 1.
+      >give the payload< analyse this code and modify the code to be more AV proof need this code in ps1 file
+   
+      
