@@ -22,7 +22,7 @@
 
 ### • 1. Installation of Villan Framework :
 
-    git clone https://github.com/t313machus/Villain
+    git clone https://github.com/t3l3machus/Villain
     cd ./Villain
     pip3 install -r requirements.txt
 
@@ -34,4 +34,11 @@
 
     python3 villan.py
 
-    
+> For details use "help" command
+
+
+### • 2. Generate a paylaod : 
+
+ To understand how to generate a paylaod we will use the command 
+
+    help generate
