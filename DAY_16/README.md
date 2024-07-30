@@ -81,5 +81,8 @@
 </br> 
 ### • 1. Open a new tab and start the netcat listener in that terminasl.
 
-    nc -lvnp <port>
+    nc -lvnp <port no>
 
+  And now open the .ps1 file in powershell.
+
+If any other problem occurs try using AI and other gpt's to further improve or debug your payload
