@@ -22,4 +22,3 @@
  ⇨ Create a directory named `port_scan_detection` and get the file tht ive uploaded named same by using the command :
 
      wget https://raw.githubusercontent.com/Izumi0XD/CYBER_SECURITY_NOTES/main/DAY_22/port_scan_detection.py?token=GHSAT0AAAAAACVPFPDGXNUSFL6OUXPC4HQWZVI37AA 
---2024-07-30 18:12:23--  https://raw.githubusercontent.com/Izumi0XD/CYBER_SECURITY_NOTES/main/DAY_22/port_scan_detection.py?token=GHSAT0AAAAAACVPFPDGXNUSFL6OUXPC4HQWZVI37AA
