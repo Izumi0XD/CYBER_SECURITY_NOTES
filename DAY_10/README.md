@@ -13,7 +13,9 @@
 
 
 
-### • 1. Start yor machine and set up your Vpn and stuff as shown in previous Repo's
+### • 1. Start yor machine and set up your Vpn and stuff as shown in previous Repo's.
+
+![Screenshot 2024-06-19 181441](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/9f832b05-537c-4f1a-b5ee-0be45087e526)
 
 ### • 2. As the Task 2 is asking for how many ports are iopen so we are exactly gonna scan the ports and this process of gathering informations bya scanning and stuff is is also known as ***RECONNAISSANCE*** as like a professional name for doint scanning and stuff. Anyway we will do scanning using nmap and cammaod for taht is :
     nmap -sV >IP add<
