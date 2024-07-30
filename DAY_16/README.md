@@ -75,3 +75,11 @@
 
  ### • 4. Step 4
          "Replace the placeholders like 'SERVERlP' and '*SESSIONlD' with actual endpoint paths and IDs before executing the script. Remove all those above and now I am using netcat to connect with the TCP connection."
+
+
+#♦ Connect Via Netcat :
+</br> 
+### • 1. Open a new tab and start the netcat listener in that terminasl.
+
+    nc -lvnp <port>
+
