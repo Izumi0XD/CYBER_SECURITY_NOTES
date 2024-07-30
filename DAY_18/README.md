@@ -21,8 +21,9 @@
 ![Screenshot 2024-06-19 181441](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/assets/141332753/9f832b05-537c-4f1a-b5ee-0be45087e526)
 • Open a Different terminal 'Remember not to close the vpn file till the work is done
 
-### • 3. Scan For the Open Ports "RECONNAISSANCE" :
-   ⇨ Open a new terminal and do a rustscan on the given ip to look for open ports.
-
-      rustscan -a <IP ADD>
+### • 3. Download the Task File :
+   ⇨ Open the task file that u've downloded from the H4cked room amd open it with ***"Wireshark"***
    
+      wireshark <file name>
+
+![Screenshot_2024-07-30_15-30-44](https://github.com/user-attachments/assets/6f458a07-b1a8-44b2-b7c8-6256592c1730)
