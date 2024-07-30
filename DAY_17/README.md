@@ -10,3 +10,14 @@
    </br>
    </br>
 ### ⍰ Packets ?
+   ⇨ In networking, a packet is a small segment of a larger message. Data sent over computer networks*, such as the Internet, is divided into packets. These packets are then recombined by the computer or device that receives them.
+
+### ⚒️ OSI Model and Packet Generation :
+   ⇨ The open systems interconnection (OSI) model is a conceptual model created by the International Organization for Standardization which enables diverse communication systems to communicate using standard protocols. In plain English, the OSI provides a standard for different computer systems to be able to communicate with each other.
+
+The OSI Model can be seen as a universal language for computer networking. It is based on the concept of splitting up a communication system into seven abstract layers, each one stacked upon the last.
+</br>
+</br>
+
+
+    
