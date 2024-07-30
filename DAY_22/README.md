@@ -17,4 +17,7 @@
 
 ### ◙ Step-By-Step Guide 
 
-### • 1.  :
+### • Step-1.  
+
+ ⇨ Create a directory named `port_scan_detection` and get the file tht ive uploaded named same by using the command
+ 
