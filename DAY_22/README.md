@@ -31,3 +31,33 @@
      python port_scan_detection.py
  
  ⇨ script will now start capturing network traffic and print messages indicating any detected port scans.
+
+
+## ◙ Workings :
+
+• ***Function `detect_port_scan`*** : 
+
+   ⇨ This function is called for each captured packet. It checks if the packet has a TCP layer and if it contains the SYN or SYN-ACK flags. It then verifies if the destination or source port is less than 1024, which indicates a possible port scan attempt. A message is printed if a port scan is detected.
+
+
+• ***Sniffing Network Traffic*** : 
+ 
+   ⇨ The `sniff` function from Scapy captures network packets and calls the `detect_port_scan` function for each packet.
+
+
+## Notes
+
+
+• ***Permissions*** :
+   
+   ⇨ Ensure you have the required permissions to capture network packets. This might require running the script with `sudo` in some environments.
+
+
+• **Enhancements** : 
+
+   ⇨ This is a basic implementation. Consider adding additional checks and features to improve accuracy and reliability based on your specific needs.
+ 
+ 
+• ***Environment*** : 
+
+   ⇨ The script is suitable for use in Kali Linux or WSL (Windows Subsystem for Linux). Keep the terminal running to monitor network traffic while the script is active.
