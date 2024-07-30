@@ -46,12 +46,15 @@
 
 #### Command:
 
+    ```sh
+
     sudo install -m =xs $(which mv) .
 
     LFILE=file_to_write
     TF=$(mktemp)
     echo "DATA" > $TF
     ./mv $TF $LFILE
+    ```
    </br>
    </br>
 
