@@ -19,5 +19,7 @@
 
 ### • Step-1.  
 
- ⇨ Create a directory named `port_scan_detection` and get the file tht ive uploaded named same by using the command
- 
+ ⇨ Create a directory named `port_scan_detection` and get the file tht ive uploaded named same by using the command :
+
+    wget https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/blob/main/DAY_22/port_scan_detection.py
+  
