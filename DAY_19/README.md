@@ -174,4 +174,4 @@
 ---
 
 
-### These are the various ways of privillage escalation by using some comman commands. Each of them are used in different scenarios.
+### ⇨ These are the various ways of privillage escalation by using some comman commands. Each of them are used in different scenarios.
