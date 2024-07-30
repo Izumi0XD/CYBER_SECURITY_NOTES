@@ -61,3 +61,6 @@
 #### • ***Environment*** : 
 
    ⇨ The script is suitable for use in Kali Linux or WSL (Windows Subsystem for Linux). Keep the terminal running to monitor network traffic while the script is active.
+
+
+We can even further enhance the script even after that
