@@ -38,3 +38,20 @@
 
     LFILE=file_to_read
     sudo cat "$LFILE"
+
+
+# ♦ `mv` : 
+   ⇨  The `mv` command can move files from restricted file systems or with elevated privileges. If it has the SUID bit set, it can escalate privileges.
+
+
+#### Command:
+
+    sudo install -m =xs $(which mv) .
+
+    LFILE=file_to_write
+    TF=$(mktemp)
+    echo "DATA" > $TF
+    ./mv $TF $LFILE
+   </br>
+   </br>
+
