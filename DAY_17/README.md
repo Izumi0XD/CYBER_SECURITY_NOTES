@@ -19,5 +19,6 @@ The OSI Model can be seen as a universal language for computer networking. It is
 </br>
 </br>
 
+![Screenshot (150)](https://github.com/user-attachments/assets/efbdc86d-594e-4444-908c-5d38671e827d)
 
     
