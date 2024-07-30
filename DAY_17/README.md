@@ -21,4 +21,15 @@ The OSI Model can be seen as a universal language for computer networking. It is
 
 ![Screenshot (150)](https://github.com/user-attachments/assets/efbdc86d-594e-4444-908c-5d38671e827d)
 
-    
+  ⇨ In order for human-readable information to be transferred over a network from one device to another, the data must travel down the seven layers of the OSI Model on the sending device and then travel up the seven layers on the receiving end.
+
+
+## ◙ Network Protocols :
+
+• TCP (Transmission Control Protocol) ⇨ A reliable, connection-oriented protocol used for data transmission.
+
+
+• UDP (User Datagram Protocol) ⇨ A connectionless protocol used for time-sensitive transmissions such as video streaming or online gaming.
+
+
+• FTP (File Transfer Protocol) ⇨ A standard network protocol used for transferring files between a client and server.
