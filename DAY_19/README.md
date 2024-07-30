@@ -57,7 +57,11 @@
   ./mv $TF $LFILE
   ```
 - Sudo:
-  ```sh
-   
- </br>
+    ```sh
+  LFILE=file_to_write
+  TF=$(mktemp)
+  echo "DATA" > $TF
+  sudo mv $TF $LFILE
+  ```
+
 
