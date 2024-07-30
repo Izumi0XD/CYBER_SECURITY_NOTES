@@ -16,6 +16,7 @@
    </br>
    </br>
 ### # ♦ `cat` :  
+
    ⇨  Description: The `cat` command reads data from files and can be used to do privileged reads or disclose files outside a restricted file system. If it has the SUID bit set, it can escalate privileges.
 </br>
 #### Command: 
