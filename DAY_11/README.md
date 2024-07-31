@@ -4,4 +4,4 @@
 
 
 
-# I've Completed it in [DAY_10](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/main/DAY_10) REPO
+# I've Completed it in [DAY_10](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_10) REPO
