@@ -23,13 +23,13 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_10](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_10) ⇨ ***Performing TRYHACKME room "RootMe".***
 
-### • [Day_11](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_11) ⇨
+### • [Day_11](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_11) ⇨ ***Performing TRYHACKME room "RootMe" Pt -2.***
 
 ### • [Day_12](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_12) ⇨ ***Learning about SQLMAP Injection.***
 
 ### • [Day_13](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_13) ⇨ ***Try and Compromising Windows 7.***
 
-### • [Day_14](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_14) ⇨
+### • [Day_14](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_14) ⇨ ***Introduction to some New Tools***
 
 ### • [Day_15](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_15) ⇨ ***Try and Compromising Ubuntu Linux.***
 
