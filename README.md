@@ -35,19 +35,19 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_16](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_16) ⇨ ***Introducing Villan FRamework for generating payloads***
 
-### • [Day_17](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_17) ⇨
+### • [Day_17](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_17) ⇨ ***Introduction to Wireshark***
 
-### • [Day_18](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_18) ⇨
+### • [Day_18](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_18) ⇨ ***Performing TRYHACKME room "H4CKED"***
 
-### • [Day_19](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_19) ⇨
+### • [Day_19](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_19) ⇨ ***Privillage Escalation with comman commands***
 
-### • [Day_20](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_20) ⇨
+### • [Day_20](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_20) ⇨ ***Wi-Fi Hacking***
 
-### • [Day_21](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_21) ⇨
+### • [Day_21](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_21) ⇨ ***Wi-Fi Hacking -2***
 
-### • [Day_22](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_22) ⇨
+### • [Day_22](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_22) ⇨ ***Port Scanning using Python***
 
-### • [Day_23](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_23) ⇨
+### • [Day_23](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_23) ⇨ ***Introduction to the SNORT***
 
 ### • [Day_24](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_24) ⇨
 
