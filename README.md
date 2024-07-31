@@ -49,6 +49,6 @@ WILL BE ADDING CYBEER SECURITY NOTES LIKE EVERYTHING IK AND ILL BE KNOWING SOON 
 
 ### • [Day_23](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_23) ⇨ ***Introduction to the SNORT***
 
-### • [Day_24](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_24) ⇨
+### • [Day_24](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_24) ⇨ ***Intrusion Detection and Preventions***
 
 ### • [Day_25](https://github.com/Izumi0XD/CYBER_SECURITY_NOTES/tree/main/DAY_25) ⇨
