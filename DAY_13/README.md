@@ -22,7 +22,7 @@ After this we have to check which one of the device is tht we are looking for so
 
 ### • 2. Search For Vulnerability : Now we will be searching for the vulnerabilities of the ip we confirmed by doing nmap scans now for vulnerability searching we will be using the following command
 
-    namp -Pn -sV --script vuln -oN vuln-win7-nmap.txt >IP add<
+    nmap -Pn -sV --script vuln -oN vuln-win7-nmap.txt >IP add<
 
 As we can see from above report tht there is a vulnerability availabe by the name "ms17-010".
 
